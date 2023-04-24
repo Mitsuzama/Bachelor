@@ -11,7 +11,7 @@ public class PlayBackgroundAudio : MonoBehaviour
 {
     [Tooltip("Numele clipului care va fi rulat")]
     public AudioClip audioToPlay;
-    public float timeToPlay;
+    private float timeToPlay = Mathf.Infinity;
 
     private void OnEnable()
     {
