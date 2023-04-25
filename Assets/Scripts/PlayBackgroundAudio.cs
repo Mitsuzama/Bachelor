@@ -11,6 +11,7 @@ public class PlayBackgroundAudio : MonoBehaviour
 {
     [Tooltip("Numele clipului care va fi rulat")]
     public AudioClip audioToPlay;
+    [SerializeField]
     private float timeToPlay = Mathf.Infinity;
 
     private void OnEnable()
@@ -20,21 +21,36 @@ public class PlayBackgroundAudio : MonoBehaviour
 
     private IEnumerator PlayAudio()
     {
-        while (AudioManager.instance == null)
+        while (AudioHandler.instance == null)
         {
             yield return new WaitForEndOfFrame();
         }
 
-        StartCoroutine(AudioManager.instance.PlayAudio(audioToPlay, timeToPlay));
+        StartCoroutine(AudioManager.instance.Play(audioToPlay, timeToPlay));
     }
 
     public void StopAudio()
     {
-        AudioManager.instance.StopAudio();
+        AudioHandler.instance.Stop();
+    }
+
+    public void PauseAudio()
+    {
+        AudioHandler.instance.Pause();
+    }
+
+    public void IncreaseAudio(float vol)
+    {
+        AudioHandler.instance.VolumeUp(vol);
+    }
+
+    public void DecreaseAudio(float vol)
+    {
+        AudioHandler.instance.VolumeDown(vol);
     }
 
     private void OnDisable()
     {
-        AudioManager.instance.StopAudio();
+        AudioHandler.instance.Stop();
     }
 }
