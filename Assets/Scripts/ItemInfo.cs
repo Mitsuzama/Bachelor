@@ -18,22 +18,22 @@ public struct NutritionalInfo
 /**
 * @brief Script atasat la fiecare element din magazin, folosit pentru a seta pretul si alte informatii despre element
 */
-public class ItemInfo : MonoBehaviour
+public class ItemInfo
 {
     [Tooltip("Numele alimentului din magazin")]
-    public string itemName;
+    public string itemName { get; set; }
 
     [Tooltip("Descrierea alimentului")]
-    public string itemDescription = "";
+    public string itemDescription { get; set; }
 
     [Tooltip("Informatii nutritionale")]
-    public NutritionalInfo itemNutritionalInfo;
+    public NutritionalInfo itemNutritionalInfo { get; set; }
 
     [Tooltip("Pretul alimentului")]
-    public float itemPrice;
+    public float itemPrice { get; set; }
 
     [Tooltip("Reducere la aliment")]
-    public bool isOnSale;
+    public bool isOnSale { get; set; }
 
     /**
     * @brief Metoda folosita pentru setarea proprietatilor alimentului
@@ -52,7 +52,7 @@ public class ItemInfo : MonoBehaviour
     private void Start()
     {
         // componenta TextMeshProUGUI
-        TextMeshPro textObject = GetComponentInChildren<TextMeshPro>();
+        /*TextMeshPro textObject = GetComponentInChildren<TextMeshPro>();
         textObject.SetText(" ");
         
         string toShow = itemName + "\nPret: " + itemPrice.ToString("C") + " Lei";
@@ -61,17 +61,7 @@ public class ItemInfo : MonoBehaviour
             toShow += "\nOFERTA";
         }
 
-        textObject.SetText(toShow);
-    }
-
-    public float GetPrice()
-    {
-        return itemPrice;
-    }
-
-    public string GetDescription()
-    {
-        return itemDescription;
+        textObject.SetText(toShow);*/
     }
 
 }

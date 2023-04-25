@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -37,15 +38,25 @@ namespace ShoppingCart
 
             if (itemCounts == null)
             {
-                throw new ArgumentNullException(nameof(dictionary));
+                throw new ArgumentNullException(nameof(itemCounts));
             }
 
-            var tmpList = string.Join("\n", itemCounts.Select(pair => $"{pair.Value} {pair.Key}"));
+            var tmpList = "";
+            foreach (var pair in itemCounts)
+            {
+                tmpList += $"{pair.Value} {pair.Key}\n";
+            }
             addedItems.text = tmpList;
 
-            var totalPrice = itemCounts.Sum(item => item.Value * itemPrices[item.Key]);
+            var totalPrice = 0;
+            foreach (var pair in itemCounts)
+            {
+                var itemPrice = itemsContained.FirstOrDefault(item => item.itemName == pair.Key).itemPrice;
+                totalPrice += pair.Value * itemPrice;
+            }
             var tmpPrices = $"{totalPrice} Lei";
             prices.text = tmpPrices;
+
         }
     }
 }
