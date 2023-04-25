@@ -1,39 +1,51 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
-public class ShoppingCartUI : MonoBehaviour
+namespace ShoppingCart
 {
-    [SerializeField]
-    private TMP_Text addedItems;
-    [SerializeField]
-    private TMP_Text prices;
-    [SerializeField]
-    private CartItemCollider cartContent;
 
-    private void Awake()
+    public class ShoppingCartUI : MonoBehaviour
     {
-        items += OnContentChanged;
-    }
+        [SerializeField]
+        private TMP_Text addedItems;
+        [SerializeField]
+        private TMP_Text prices;
+        [SerializeField]
+        private ShoppingCart cartContent;
 
-    private void OnContentChanged(ISet<ItemInfo> itemsContained)
-    {
-        Dictionary<string, int> itemCounts = new Dictionary<string, int>();
-        foreach (var item in itemsContained)
+        private void Awake()
         {
-            if (itemCounts.ContainsKey(item.Name))
-            {
-                itemCounts[item.Name]++;
-            }
-            else
-            {
-                itemCounts[item.Name] = 1;
-            }
+            cartContent.OnContentChanged += OnContentChanged;
         }
-        var tmpList = string.Join(itemCounts.Select(pair => $"{pair.Value} {pair.Key}", "\n");
-        addedItems.text = tmpList;
 
-        var tmpPrices = string.Join($"{items.Sum(item => item.Price)}", " Lei");
-        prices.text = tmpPrices;
+        private void OnContentChanged(HashSet<ItemInfo> itemsContained)
+        {
+            Dictionary<string, int> itemCounts = new Dictionary<string, int>();
+            foreach (var item in itemsContained)
+            {
+                if (itemCounts.ContainsKey(item.itemName))
+                {
+                    itemCounts[item.itemName]++;
+                }
+                else
+                {
+                    itemCounts[item.itemName] = 1;
+                }
+            }
+
+            if (itemCounts == null)
+            {
+                throw new ArgumentNullException(nameof(dictionary));
+            }
+
+            var tmpList = string.Join("\n", itemCounts.Select(pair => $"{pair.Value} {pair.Key}"));
+            addedItems.text = tmpList;
+
+            var totalPrice = itemCounts.Sum(item => item.Value * itemPrices[item.Key]);
+            var tmpPrices = $"{totalPrice} Lei";
+            prices.text = tmpPrices;
+        }
     }
 }
