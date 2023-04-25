@@ -26,7 +26,7 @@ public class PlayBackgroundAudio : MonoBehaviour
             yield return new WaitForEndOfFrame();
         }
 
-        StartCoroutine(AudioManager.instance.Play(audioToPlay, timeToPlay));
+        StartCoroutine(AudioHandler.instance.Play(audioToPlay, timeToPlay));
     }
 
     public void StopAudio()

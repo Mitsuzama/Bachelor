@@ -22,19 +22,13 @@ public class AudioHandler : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
     }
 
-    private IEnumerator StopAudioDelayed(float time)
-    {
-        yield return new WaitForSeconds(time);
-        Stop();
-    }
-
     /**
      * @brief Functie responsabila de redarea audioului din joc, in special a melodiei de fundal
      * 
      * @param clip          clipul audioce trebuie redat
      * @param timeToPlay    durata de timp pentru care trebuie redat videoclipul
      */
-    public void Play(AudioClip clip, float timeToPlay)
+    public IEnumerator Play(AudioClip clip, float timeToPlay)
     {
         if(clip != null || !audioSource.isPlaying)
         {
@@ -44,7 +38,8 @@ public class AudioHandler : MonoBehaviour
         
         if (timeToPlay > 0)
         {
-            StartCoroutine(StopAudioDelayed(timeToPlay));
+            yield return new WaitForSeconds(timeToPlay);
+            Stop();
         }
     }
 
