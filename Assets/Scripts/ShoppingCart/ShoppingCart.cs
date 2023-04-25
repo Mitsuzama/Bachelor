@@ -8,10 +8,11 @@ public class ShoppingCart : MonoBehaviour
 
     private List<ItemInfo> cartItems = new List<ItemInfo>();
     private List<ItemInfo> removedItems = new List<ItemInfo>();
+    public event Action<ISet<ItemInfo>> OnContentChanged = set => { };
 
     /**
-     * @brief Verific daca am deja o instanta a caruciorului
-     */
+    * @brief Verific daca am deja o instanta a caruciorului
+    */
     private void Awake()
     {
         if (Instance == null)
@@ -26,25 +27,30 @@ public class ShoppingCart : MonoBehaviour
     }
 
     /**
-     * @brief Adauga un obiect in cos
-     */
-    public void AddItem(GameObject itemObject)
+    * @brief Adauga un obiect in cos
+    */
+    public void AddItem(Collider itemObject)
     {
         ItemInfo item = itemObject.GetComponent<ItemInfo>();
-        cartItems.Add(item);
+        if(item != null)
+        {
+            cartItems.Add(item);
+            OnContentChanged(cartItems);
+        }
         Debug.Log("Adaugat cu succes!");
     }
 
     /**
-     * @brief Scoate un obiect din cos
-     */
-    public void RemoveItem(GameObject itemObject)
+    * @brief Scoate un obiect din cos
+    */
+    public void RemoveItem(Colider itemObject)
     {
         ItemInfo item = itemObject.GetComponent<ItemInfo>();
         if (cartItems.Contains(item))
         {
             cartItems.Remove(item);
             removedItems.Add(item);
+            OnContentChanged(cartItems);
         }
         else if (removedItems.Contains(item))
         {
@@ -55,24 +61,24 @@ public class ShoppingCart : MonoBehaviour
     }
 
     /**
-     * @brief Returneaza o lista cu obiectele curente aflate in cos
-     */
+    * @brief Returneaza o lista cu obiectele curente aflate in cos
+    */
     public List<ItemInfo> GetCartItems()
     {
         return cartItems;
     }
 
     /**
-     * @brief Returneaza o lista cu obiectele scoase
-     */
+    * @brief Returneaza o lista cu obiectele scoase
+    */
     public List<ItemInfo> GetRemovedItems()
     {
         return removedItems;
     }
 
     /**
-     * @brief Golesc cosul
-     */
+    * @brief Golesc cosul
+    */
     public void ClearCart()
     {
         cartItems.Clear();
