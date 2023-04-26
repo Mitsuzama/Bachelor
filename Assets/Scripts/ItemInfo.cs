@@ -18,7 +18,7 @@ public struct NutritionalInfo
 /**
 * @brief Script atasat la fiecare element din magazin, folosit pentru a seta pretul si alte informatii despre element
 */
-public class ItemInfo
+public class ItemInfo : MonoBehaviour
 {
     [Tooltip("Numele alimentului din magazin")]
     public string itemName { get; set; }

@@ -48,10 +48,18 @@ namespace ShoppingCart
             }
             addedItems.text = tmpList;
 
-            var totalPrice = 0;
+            float totalPrice = 0;
             foreach (var pair in itemCounts)
             {
-                var itemPrice = itemsContained.FirstOrDefault(item => item.itemName == pair.Key).itemPrice;
+                float itemPrice = 0;
+                foreach (var item in itemsContained)
+                {
+                    if (item.itemName == pair.Key)
+                    {
+                        itemPrice = item.itemPrice;
+                        break;
+                    }
+                }
                 totalPrice += pair.Value * itemPrice;
             }
             var tmpPrices = $"{totalPrice} Lei";

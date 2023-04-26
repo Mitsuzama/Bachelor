@@ -8,6 +8,7 @@ using static UnityEditor.Progress;
 
 public class AddObjectToCart : MonoBehaviour
 {
+    /*
     public AudioClip enterShopSound;
     public AudioClip exitShopSound;
 
@@ -51,5 +52,6 @@ public class AddObjectToCart : MonoBehaviour
             exitAudioSource.Play();
         }
     }
+    */
 
 }
