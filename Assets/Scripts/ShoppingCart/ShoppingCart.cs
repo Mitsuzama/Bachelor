@@ -3,16 +3,17 @@ using System.Linq;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Item;
 
-namespace ShoppingCart
+namespace CartLogic
 {
-    public class ShoppingCart : MonoBehaviour
+    public class ShoppingCart : MonoBehaviour, IShoppingCart
     {
         public static ShoppingCart Instance { get; private set; }
 
         private HashSet<ItemInfo> cartItems = new HashSet<ItemInfo>();
         private HashSet<ItemInfo> removedItems = new HashSet<ItemInfo>();
-        public event Action<HashSet<ItemInfo>> OnContentChanged = set => { };
+        public event Action<ISet<ItemInfo>> OnContentChanged = set => { };
 
         /**
         * @brief Verific daca am deja o instanta a caruciorului
@@ -32,44 +33,43 @@ namespace ShoppingCart
 
         private void OnTriggerEnter(Collider other)
         {
-            AddItem(other);
+            var item = other.GetComponent<ItemInfo>();
+            if (item != null)
+            {
+                AddItem(item);
+            }
+            
         }
 
         private void OnTriggerExit(Collider other)
         {
-            RemoveItem(other);
+            ItemInfo item = other.GetComponent<ItemInfo>();
+
+            if (item != null)
+            {
+                RemoveItem(item);
+            }
         }
 
         /**
         * @brief Adauga un obiect in cos
         */
-        public void AddItem(Collider itemObject)
+        public void AddItem(ItemInfo item)
         {
-            ItemInfo item = itemObject.GetComponent<ItemInfo>();
-            if(item != null)
-            {
-                cartItems.Add(item);
-                OnContentChanged(cartItems);
-            }
-            Debug.Log("Adaugat cu succes!");
+            cartItems.Add(item);
+            OnContentChanged(cartItems);
+            Debug.Log("Adaugat cu succes: ");
+            Debug.Log(item.ItemName);
         }
 
         /**
         * @brief Scoate un obiect din cos
         */
-        public void RemoveItem(Collider itemObject)
+        public void RemoveItem(ItemInfo item)
         {
-            ItemInfo item = itemObject.GetComponent<ItemInfo>();
-            if (cartItems.Contains(item))
-            {
-                cartItems.Remove(item);
-                removedItems.Add(item);
-                OnContentChanged(cartItems);
-            }
-            else if (removedItems.Contains(item))
-            {
-                removedItems.Remove(item);
-            }
+            cartItems.Remove(item);
+            removedItems.Add(item);
+            OnContentChanged(cartItems);
             Debug.Log("Eliminat cu succes!");
             // Debug.Log();
         }

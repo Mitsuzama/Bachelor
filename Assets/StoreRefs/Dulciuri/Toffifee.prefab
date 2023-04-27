@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 661576549249618896}
   - component: {fileID: 205100009821168719}
   - component: {fileID: 3185267937899672193}
-  - component: {fileID: 5493487175896954639}
   m_Layer: 0
   m_Name: Toffifee
   m_TagString: Untagged
@@ -251,27 +250,3 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!114 &5493487175896954639
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6827722661933836245}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemName: Milka Ciocolata cu lapte alpin
-  itemDescription: Praline cu alune, nuga si caramel acoperite cu ciocolata
-  itemNutritionalInfo:
-    grasimi: 28.8
-    valoareEnergetica: 522
-    glucide: 59
-    fibre: 0
-    sodiu: 0.26
-    proteine: 6
-    grasimiSaturate: 12.7
-  itemPrice: 12.19
-  isOnSale: 0

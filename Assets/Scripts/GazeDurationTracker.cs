@@ -30,7 +30,7 @@ public class GazeDurationTracker : MonoBehaviour
 
     void GazeCompleted()
     {
-        Debug.Log("Utilizatorul s-a uitat la obiect cat trebuie");
+        //Debug.Log("Utilizatorul s-a uitat la obiect cat trebuie");
         // aici aduc ce trebuie facut cu timpul asta
     }
 }
