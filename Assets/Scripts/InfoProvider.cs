@@ -1,11 +1,40 @@
 using System;
 using System.Globalization;
 using UnityEngine;
+using System.Linq;
 using TMPro;
 using Item;
 
 namespace InfoShow
 {
+    public static class BoundsExtensions
+    {
+        /* preluat si compus de aici: https://answers.unity.com/questions/17968/finding-the-bounds-of-a-grouped-model.html */
+        /**
+         * @rief: calculeaza marginile unui model grupat. Utilizat pentru un model realizat din mai multe sub-modele
+         * 
+         * @param: gameObject: obiectul pentru care sunt calculate mariginile (bounds)
+        */
+        public static Bounds CalculateLocalBounds(this GameObject gameObject)
+        {
+            Quaternion currentRotation = gameObject.transform.rotation; // rotatia curenta
+            gameObject.transform.rotation = Quaternion.Euler(0f, 0f, 0f);
+
+            Bounds bounds = new Bounds(gameObject.transform.position, Vector3.zero);
+            foreach (Renderer renderer in gameObject.GetComponentsInChildren<Renderer>())
+            {
+                bounds.Encapsulate(renderer.bounds);
+            }
+
+            Vector3 localCenter = bounds.center - gameObject.transform.position;
+            bounds.center = localCenter;
+
+            gameObject.transform.rotation = currentRotation;
+
+            return bounds;
+        }
+    }
+
     public class InfoProvider : MonoBehaviour, IInfoProvider
     {
         [SerializeField] private Canvas canvas;
@@ -43,47 +72,11 @@ namespace InfoShow
             }
         }
 
-        /* preluat si compus de aici: https://answers.unity.com/questions/17968/finding-the-bounds-of-a-grouped-model.html */
-        /**
-         * @rief: calculeaza marginile unui model grupat. Utilizat pentru un model realizat din mai multe sub-modele
-         * 
-         * @param: gameObject: obiectul pentru care sunt calculate mariginile (bounds)
-        */
-        [Obsolete]
-        public static Bounds CalculateLocalBounds(GameObject gameObject)
-        {
-            var bounds = gameObject.GetComponentsInChildren<MeshFilter>(true)
-                .Where(mf => filter == null || filter(mf))
-                .Select(mf =>
-                {
-                    var mesh = isSharedMesh ? mf.sharedMesh : mf.mesh;
-                    var localBound = mf.transform.TransformBounds(gameObject.transform, mesh.bounds);
-                    return localBound;
-                })
-                .Where(b => b.size != Vector3.zero)
-                .ToArray();
-
-            if (bounds.Length == 0)
-                return new Bounds();
-
-            if (bounds.Length == 1)
-                return bounds[0];
-
-            var compositeBounds = bounds[0];
-
-            for (var i = 1; i < bounds.Length; i++)
-            {
-                compositeBounds.Encapsulate(bounds[i]);
-            }
-
-            return compositeBounds;
-        }
-
         private void LateUpdate()
         {
             if (item)
             {
-                var itemCenter = item.transform.TransformPoint(focusedItemBounds.Center);
+                var itemCenter = item.transform.TransformPoint(focusedItemBounds.center);
                 transform.position = itemCenter - camera.transform.right * (focusedItemBounds.size.magnitude/2 + offset);
                 transform.rotation = Quaternion.LookRotation(transform.position - camera.transform.position);
             }
