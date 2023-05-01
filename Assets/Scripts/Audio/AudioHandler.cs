@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AudioHandler : MonoBehaviour
 {
-    public AudioSource audioSource;
+    [SerializeField] private AudioSource audioSource;
     public static AudioHandler instance;
 
     private void Awake()
@@ -25,7 +25,7 @@ public class AudioHandler : MonoBehaviour
     /**
      * @brief Functie responsabila de redarea audioului din joc, in special a melodiei de fundal
      * 
-     * @param clip          clipul audioce trebuie redat
+     * @param clip          clipul audio ce trebuie redat
      * @param timeToPlay    durata de timp pentru care trebuie redat videoclipul
      */
     public IEnumerator Play(AudioClip clip, float timeToPlay)

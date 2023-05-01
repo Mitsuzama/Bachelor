@@ -496,18 +496,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &4095454
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -972,18 +960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &7498023
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1276,18 +1252,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &9379744
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1866,18 +1830,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &14274538
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2245,18 +2197,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &23986556
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2860,18 +2800,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &32320692
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3180,18 +3108,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &34047112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3484,18 +3400,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &36990516
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4453,18 +4357,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &58065713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5503,18 +5395,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &71179701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5995,18 +5875,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &72119219
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6312,6 +6180,8 @@ GameObject:
   - component: {fileID: 81376768}
   - component: {fileID: 81376770}
   - component: {fileID: 81376769}
+  - component: {fileID: 81376772}
+  - component: {fileID: 81376773}
   m_Layer: 0
   m_Name: RightHand
   m_TagString: Untagged
@@ -6607,6 +6477,32 @@ MonoBehaviour:
   m_Move: {fileID: -8198699208435500284, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_SmoothMotionEnabled: 0
   m_SmoothTurnEnabled: 0
+--- !u!114 &81376772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 81376762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a0ac5d6c1e462409c6e4b51f3a27da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &81376773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 81376762}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8c12af2546673b4d84d2c9af0a89f44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  handGrabber: {fileID: 81376772}
+  infoProvider: {fileID: 1981709388}
 --- !u!1 &83571388
 GameObject:
   m_ObjectHideFlags: 0
@@ -7066,7 +6962,7 @@ Transform:
   - {fileID: 1255496850}
   - {fileID: 413101886}
   m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &99905120
 GameObject:
@@ -7511,7 +7407,7 @@ Transform:
   - {fileID: 472040103}
   - {fileID: 1659824650}
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &108878102
 PrefabInstance:
@@ -8250,18 +8146,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &133564451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8407,7 +8291,7 @@ Transform:
   - {fileID: 926292449}
   - {fileID: 1642348628}
   m_Father: {fileID: 0}
-  m_RootOrder: 35
+  m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &137757218
 PrefabInstance:
@@ -9013,18 +8897,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &156390693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9317,18 +9189,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &156494484
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9621,18 +9481,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &160129888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10373,7 +10221,7 @@ Transform:
   - {fileID: 1095335916}
   - {fileID: 109909532}
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &170132015
 GameObject:
@@ -10832,18 +10680,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &177555607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11152,18 +10988,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &183185774
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11809,18 +11633,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &195480389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12113,18 +11925,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &195752409
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13540,18 +13340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &215557309
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14769,18 +14557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &236949730
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15073,18 +14849,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &237501667
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15970,18 +15734,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &252362509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16258,18 +16010,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &262875728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16734,18 +16474,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &277639866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16895,7 +16623,7 @@ Transform:
   - {fileID: 1619341742}
   - {fileID: 775729510}
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &285486067
 GameObject:
@@ -17451,18 +17179,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &297231997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17755,18 +17471,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &299434468
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18481,18 +18185,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &305170102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18683,7 +18375,7 @@ Transform:
   m_Children:
   - {fileID: 1470400740}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1001 &305518930
 PrefabInstance:
@@ -18961,18 +18653,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &309613617
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19064,6 +18744,52 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 309613612}
   m_Mesh: {fileID: -5395218353944092270, guid: bdcabc86afa01674a832872db293837a, type: 3}
+--- !u!1 &310325759
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 310325761}
+  - component: {fileID: 310325760}
+  m_Layer: 0
+  m_Name: BoxaMelodieFundal
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &310325760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 310325759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dffd6a01fac889d4298d7b2d864b6f82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioToPlay: {fileID: 8300000, guid: b4c750691f1af0d4ca243b7b72325637, type: 3}
+  timeToPlay: Infinity
+--- !u!4 &310325761
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 310325759}
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &315673051
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19831,18 +19557,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &325035402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20151,18 +19865,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &325856645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20439,18 +20141,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &332577001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21087,18 +20777,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &351394511
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21391,18 +21069,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &355094000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21695,18 +21361,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &355869649
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21999,18 +21653,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &355956883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23308,18 +22950,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &410081232
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23876,7 +23506,7 @@ Transform:
   - {fileID: 2073931589}
   - {fileID: 573914269}
   m_Father: {fileID: 0}
-  m_RootOrder: 36
+  m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &424664896
 PrefabInstance:
@@ -24737,18 +24367,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &434261960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25132,18 +24750,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &451714489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25420,18 +25026,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &452497256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25740,18 +25334,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &455282961
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25963,7 +25545,7 @@ Transform:
   - {fileID: 648355004}
   - {fileID: 317406925}
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &463452111
 GameObject:
@@ -26510,18 +26092,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &467187335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27627,18 +27197,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &481574114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27763,7 +27321,7 @@ Transform:
   m_Children:
   - {fileID: 1812780252}
   m_Father: {fileID: 0}
-  m_RootOrder: 12
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1001 &484945867
 PrefabInstance:
@@ -28369,18 +27927,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &491124003
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28689,18 +28235,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &493435410
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28977,18 +28511,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &494928723
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29700,18 +29222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &505094902
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29859,7 +29369,7 @@ Transform:
   - {fileID: 63791407}
   - {fileID: 763632151}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &524777154
 GameObject:
@@ -30364,18 +29874,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &527258398
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30774,18 +30272,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &529960371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31078,18 +30564,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &530712323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31570,18 +31044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &542635488
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31858,18 +31320,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &543623349
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32781,18 +32231,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &551263397
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33417,18 +32855,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &575197058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34003,18 +33429,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &601573350
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35024,18 +34438,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &620144227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35392,18 +34794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &631535899
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36360,18 +35750,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &648688347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36836,18 +36214,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &651986927
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37140,18 +36506,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &657044389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37444,18 +36798,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &658251254
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37850,7 +37192,7 @@ Transform:
   - {fileID: 635743478}
   - {fileID: 634992387}
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &666352810
 GameObject:
@@ -38053,18 +37395,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &666352815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39045,18 +38375,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &689523428
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39349,18 +38667,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &693195191
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39637,18 +38943,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &698036844
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40021,18 +39315,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &703931269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40325,18 +39607,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &704484215
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40787,18 +40057,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &714913184
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40944,7 +40202,7 @@ Transform:
   - {fileID: 1934667917}
   - {fileID: 1631161848}
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &720499279
 GameObject:
@@ -41995,18 +41253,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &731429116
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42828,7 +42074,7 @@ PrefabInstance:
     - target: {fileID: 9037435322285200753, guid: d483027c0967d9749ae91f149ef29038,
         type: 3}
       propertyPath: m_RootOrder
-      value: 38
+      value: 40
       objectReference: {fileID: 0}
     - target: {fileID: 9037435322285200753, guid: d483027c0967d9749ae91f149ef29038,
         type: 3}
@@ -43085,18 +42331,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &747688660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43389,18 +42623,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &749456144
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43677,18 +42899,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &753619717
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44228,18 +43438,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &762664300
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44804,18 +44002,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &765148434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45108,18 +44294,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &765807714
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45428,18 +44602,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &766493690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45807,18 +44969,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &776371376
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46770,6 +45920,134 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &793290591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 793290594}
+  - component: {fileID: 793290592}
+  m_Layer: 0
+  m_Name: Audio Source
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &793290592
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 793290591}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b4c750691f1af0d4ca243b7b72325637, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &793290594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 793290591}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1994139927}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &794443492
 GameObject:
   m_ObjectHideFlags: 0
@@ -46982,7 +46260,7 @@ Transform:
   - {fileID: 39579903}
   - {fileID: 1029794025}
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &799410826
 PrefabInstance:
@@ -47244,18 +46522,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &803430484
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47800,18 +47066,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &812172464
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48184,18 +47438,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &819460365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48343,7 +47585,7 @@ Transform:
   - {fileID: 414883862}
   - {fileID: 1441670004}
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &821103352
 GameObject:
@@ -48530,18 +47772,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &821103356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48966,18 +48196,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &823820376
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49196,7 +48414,7 @@ Transform:
   - {fileID: 864112664}
   - {fileID: 2136105634}
   m_Father: {fileID: 0}
-  m_RootOrder: 24
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &828764448
 GameObject:
@@ -49399,18 +48617,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &828764453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49944,18 +49150,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &838803672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50592,18 +49786,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &842581491
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50976,18 +50158,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &855788574
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51371,18 +50541,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &866475912
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51739,18 +50897,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &869427773
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52043,18 +51189,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &870989382
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52431,18 +51565,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &875491890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52841,18 +51963,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &880455764
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53581,18 +52691,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &890998325
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53968,18 +53066,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &897375199
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54196,7 +53282,7 @@ Transform:
   - {fileID: 833051093}
   - {fileID: 27173825}
   m_Father: {fileID: 0}
-  m_RootOrder: 33
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &910688717
 GameObject:
@@ -54383,18 +53469,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &910688721
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54934,18 +54008,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &914679909
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55254,18 +54316,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &914875470
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55542,18 +54592,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &923353749
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55846,18 +54884,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &924520225
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56004,7 +55030,7 @@ Transform:
   - {fileID: 1083600543}
   - {fileID: 456723034}
   m_Father: {fileID: 0}
-  m_RootOrder: 32
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &926292448
 GameObject:
@@ -56446,18 +55472,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &928047198
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56766,18 +55780,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &932528745
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57722,18 +56724,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &947897548
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58507,18 +57497,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &956125272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58811,18 +57789,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &956355340
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59206,18 +58172,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &961334139
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59510,18 +58464,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &964070464
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59970,18 +58912,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &977390547
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60290,18 +59220,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &983555728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60668,18 +59586,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &988755294
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61038,18 +59944,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &991976932
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61448,18 +60342,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1001185395
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62054,18 +60936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1025225721
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62605,18 +61475,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1028008915
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -62893,18 +61751,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1028062370
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63277,18 +62123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1031094314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63609,18 +62443,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1042281161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -63891,7 +62713,7 @@ Transform:
   - {fileID: 368754900}
   - {fileID: 210575218}
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1049708041
 PrefabInstance:
@@ -65037,18 +63859,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1079303987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66025,18 +64835,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1085266404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66166,7 +64964,7 @@ Transform:
   - {fileID: 421684813}
   - {fileID: 1810168546}
   m_Father: {fileID: 0}
-  m_RootOrder: 34
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1087027455
 GameObject:
@@ -66423,7 +65221,7 @@ Transform:
   m_Children:
   - {fileID: 738290735}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1001 &1089508766
 PrefabInstance:
@@ -66947,18 +65745,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1097198481
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67159,7 +65945,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!114 &1098574051
 MonoBehaviour:
@@ -67181,42 +65967,6 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
---- !u!21 &1098835515
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Default UI Material
-  m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
-    m_Floats:
-    - _ColorMask: 15
-    - _Stencil: 0
-    - _StencilComp: 8
-    - _StencilOp: 0
-    - _StencilReadMask: 255
-    - _StencilWriteMask: 255
-    - _UseUIAlphaClip: 0
-    m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-  m_BuildTextureStacks: []
 --- !u!1 &1101377652
 GameObject:
   m_ObjectHideFlags: 0
@@ -67402,18 +66152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1101377656
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67722,18 +66460,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1102194858
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68904,18 +67630,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1119806189
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69471,18 +68185,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1126824361
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69790,18 +68492,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1130672840
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70857,18 +69547,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1150029703
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71177,18 +69855,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1152675120
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71541,7 +70207,7 @@ PrefabInstance:
     - target: {fileID: 9037435322285200753, guid: d483027c0967d9749ae91f149ef29038,
         type: 3}
       propertyPath: m_RootOrder
-      value: 39
+      value: 41
       objectReference: {fileID: 0}
     - target: {fileID: 9037435322285200753, guid: d483027c0967d9749ae91f149ef29038,
         type: 3}
@@ -72097,18 +70763,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1178431174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72216,71 +70870,6 @@ Transform:
   m_Father: {fileID: 1961752948}
   m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: -90}
---- !u!1 &1183083982
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1183083984}
-  - component: {fileID: 1183083983}
-  - component: {fileID: 1183083985}
-  m_Layer: 0
-  m_Name: Carucior
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &1183083983
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1183083982}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.5507107, y: 0.7823949, z: 0.76834035}
-  m_Center: {x: -0.011422634, y: 0.8862095, z: 0.18055785}
---- !u!4 &1183083984
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1183083982}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 1.162}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 4787168096536915610}
-  - {fileID: 7165438345744801965}
-  - {fileID: 543450652241060667}
-  - {fileID: 8185477591014503511}
-  - {fileID: 8010350377465478375}
-  - {fileID: 1622509372143921871}
-  - {fileID: 4254312251097348319}
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1183083985
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1183083982}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5476208978603284cae5bd68ac24c0a3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1191396467
 GameObject:
   m_ObjectHideFlags: 0
@@ -72466,18 +71055,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1191396471
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73203,18 +71780,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1201526058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73679,18 +72244,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1226712657
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73795,6 +72348,7 @@ GameObject:
   - component: {fileID: 1231775750}
   - component: {fileID: 1231775755}
   - component: {fileID: 1231775754}
+  - component: {fileID: 1231775756}
   m_Layer: 0
   m_Name: LeftHand
   m_TagString: Untagged
@@ -74090,6 +72644,18 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: -3742484312079769484, guid: c348712bda248c246b8c49b3db54643f,
       type: 3}
+--- !u!114 &1231775756
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1231775744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a0ac5d6c1e462409c6e4b51f3a27da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1233466537
 GameObject:
   m_ObjectHideFlags: 0
@@ -74807,18 +73373,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1240412179
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75409,6 +73963,158 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!21 &1247400639
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LiberationSans SDF Material
+  m_Shader: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FaceTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 28268798066460806, guid: 2e498d1c8094910479dc3e1b768306a4,
+          type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Ambient: 0.5
+    - _Bevel: 0.5
+    - _BevelClamp: 0
+    - _BevelOffset: 0
+    - _BevelRoundness: 0
+    - _BevelWidth: 0
+    - _BumpFace: 0
+    - _BumpOutline: 0
+    - _BumpScale: 1
+    - _ColorMask: 15
+    - _CullMode: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Diffuse: 0.5
+    - _DstBlend: 0
+    - _FaceDilate: 0
+    - _FaceUVSpeedX: 0
+    - _FaceUVSpeedY: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GlowInner: 0.05
+    - _GlowOffset: 0
+    - _GlowOuter: 0.05
+    - _GlowPower: 0.75
+    - _GradientScale: 10
+    - _LightAngle: 3.1416
+    - _MaskSoftnessX: 0
+    - _MaskSoftnessY: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OutlineSoftness: 0
+    - _OutlineUVSpeedX: 0
+    - _OutlineUVSpeedY: 0
+    - _OutlineWidth: 0
+    - _Parallax: 0.02
+    - _PerspectiveFilter: 0.875
+    - _Reflectivity: 10
+    - _ScaleRatioA: 0.9
+    - _ScaleRatioB: 0.73125
+    - _ScaleRatioC: 0.73125
+    - _ScaleX: 1
+    - _ScaleY: 1
+    - _ShaderFlags: 0
+    - _Sharpness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularPower: 2
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _TextureHeight: 512
+    - _TextureWidth: 512
+    - _UVSec: 0
+    - _UnderlayDilate: 0
+    - _UnderlayOffsetX: 0
+    - _UnderlayOffsetY: 0
+    - _UnderlaySoftness: 0
+    - _VertexOffsetX: 0
+    - _VertexOffsetY: 0
+    - _WeightBold: 0.75
+    - _WeightNormal: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
+    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
+    - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_BuildTextureStacks: []
 --- !u!1001 &1255496849
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -75669,18 +74375,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1256375271
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76070,18 +74764,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1264403281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76465,18 +75147,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1269277445
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77186,18 +75856,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1279392455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77474,18 +76132,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1279859936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77944,18 +76590,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1287638109
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78372,18 +77006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1295758500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78848,18 +77470,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1314425704
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -79152,18 +77762,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1315589571
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -79703,18 +78301,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1324932148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -80023,18 +78609,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1326784188
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -80893,18 +79467,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1344895919
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81181,18 +79743,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1349174303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81410,7 +79960,7 @@ Transform:
   - {fileID: 985628060}
   - {fileID: 1089508767}
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1357615328
 GameObject:
@@ -81597,18 +80147,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1357615332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82089,18 +80627,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1367068756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82478,18 +81004,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1382510756
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83348,18 +81862,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1396383018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83727,18 +82229,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1399368747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84203,18 +82693,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1406223937
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84582,18 +83060,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1410587592
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85169,18 +83635,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1418746036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85298,7 +83752,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 584345c13cad429478515acd13548293,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 584345c13cad429478515acd13548293,
         type: 3}
@@ -85813,18 +84267,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1439838460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -86117,18 +84559,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1440189433
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87022,18 +85452,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1449392500
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87326,18 +85744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1449506850
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87614,18 +86020,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1452599171
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87816,7 +86210,7 @@ Transform:
   m_Children:
   - {fileID: 1552530068}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &1454039183
 GameObject:
@@ -88191,18 +86585,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1456650685
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88495,18 +86877,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1463847955
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -88799,18 +87169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1465991216
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89439,7 +87797,7 @@ Transform:
   - {fileID: 944153526}
   - {fileID: 702480214}
   m_Father: {fileID: 0}
-  m_RootOrder: 31
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1483350567
 GameObject:
@@ -89798,18 +88156,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1490765079
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -91108,18 +89454,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1513028672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -91517,7 +89851,7 @@ Transform:
   - {fileID: 480259642}
   - {fileID: 1331933907}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1516448310
 GameObject:
@@ -92572,7 +90906,7 @@ Transform:
   - {fileID: 547638233}
   - {fileID: 1783675107}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1537766144
 GameObject:
@@ -92759,18 +91093,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1537766148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -93160,18 +91482,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1548494494
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94518,18 +92828,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1573215144
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -95233,18 +93531,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1589756283
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98009,18 +96295,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1678754404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98732,18 +97006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1711592218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99442,6 +97704,42 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1720785304}
   m_PrefabAsset: {fileID: 0}
+--- !u!21 &1722073566
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Default UI Material
+  m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
 --- !u!1001 &1726961682
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -99815,18 +98113,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1742994276
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100275,18 +98561,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1744688436
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100969,18 +99243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1758870750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101289,18 +99551,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1759229400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101749,18 +99999,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1766121757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -102637,18 +100875,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1791707938
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -102991,7 +101217,7 @@ PrefabInstance:
     - target: {fileID: 9037435322285200753, guid: d483027c0967d9749ae91f149ef29038,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 9037435322285200753, guid: d483027c0967d9749ae91f149ef29038,
         type: 3}
@@ -103690,18 +101916,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1813368070
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104150,18 +102364,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1828007908
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104470,18 +102672,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1830093837
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104607,7 +102797,7 @@ Transform:
   - {fileID: 1287829097}
   - {fileID: 1792359656}
   m_Father: {fileID: 0}
-  m_RootOrder: 37
+  m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1832751778
 GameObject:
@@ -104982,18 +103172,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1833729223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105270,18 +103448,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1835476253
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105746,18 +103912,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1843392576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106323,18 +104477,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1861815949
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106611,18 +104753,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1864157638
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107011,18 +105141,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1870165144
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107223,11 +105341,11 @@ MonoBehaviour:
   m_AngularVelocityDamping: 1
   m_AngularVelocityScale: 1
   m_TrackPosition: 1
-  m_SmoothPosition: 0
+  m_SmoothPosition: 1
   m_SmoothPositionAmount: 5
   m_TightenPosition: 0.5
   m_TrackRotation: 1
-  m_SmoothRotation: 0
+  m_SmoothRotation: 1
   m_SmoothRotationAmount: 5
   m_TightenRotation: 0.5
   m_ThrowOnDetach: 1
@@ -108408,18 +106526,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1895927647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108872,18 +106978,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1909579353
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109176,18 +107270,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1917239401
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109555,18 +107637,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1920304929
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110017,18 +108087,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1928629605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110702,7 +108760,7 @@ Transform:
   m_Children:
   - {fileID: 13475277}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1001 &1947500785
 PrefabInstance:
@@ -111485,18 +109543,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1957839926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -111789,18 +109835,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1960653322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112224,7 +110258,7 @@ Transform:
   - {fileID: 1269277441}
   - {fileID: 1573215140}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &1962527746
 GameObject:
@@ -112411,18 +110445,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1962527750
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112731,18 +110753,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1976251331
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112894,7 +110904,7 @@ PrefabInstance:
     - target: {fileID: 2884839651774838930, guid: 9f37faa36644a3349aef6acbbcecaebe,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 2884839651774838930, guid: 9f37faa36644a3349aef6acbbcecaebe,
         type: 3}
@@ -113063,6 +111073,12 @@ MonoBehaviour:
   uiElementsToApplyTo:
   - {fileID: 731876821}
   - {fileID: 1981709379}
+--- !u!224 &1981709388 stripped
+RectTransform:
+  m_CorrespondingSourceObject: {fileID: 2884839651774838930, guid: 9f37faa36644a3349aef6acbbcecaebe,
+    type: 3}
+  m_PrefabInstance: {fileID: 1981709377}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1985098833
 GameObject:
   m_ObjectHideFlags: 0
@@ -113562,6 +111578,52 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &1994139925
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1994139927}
+  - component: {fileID: 1994139926}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1994139926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994139925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91c3a3494ddb37e409bae3291e527c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 793290592}
+--- !u!4 &1994139927
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994139925}
+  m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
+  m_LocalPosition: {x: 0, y: 3, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 793290594}
+  m_Father: {fileID: 0}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1998620461
 GameObject:
   m_ObjectHideFlags: 0
@@ -113747,18 +111809,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &1998620465
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113905,7 +111955,7 @@ Transform:
   - {fileID: 111380929}
   - {fileID: 2043027199}
   m_Father: {fileID: 0}
-  m_RootOrder: 23
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2004060923
 GameObject:
@@ -114108,18 +112158,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2004060928
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -114396,18 +112434,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2004446050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -115990,18 +114016,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2016197719
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116278,18 +114292,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2021147167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -116582,18 +114584,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2024694675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117027,18 +115017,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2027704127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117517,18 +115495,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2030453123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117989,18 +115955,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2039140321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118886,7 +116840,7 @@ Transform:
   - {fileID: 102461432}
   - {fileID: 19073999}
   m_Father: {fileID: 0}
-  m_RootOrder: 19
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2058061985
 GameObject:
@@ -121130,7 +119084,7 @@ Transform:
   - {fileID: 193119311}
   - {fileID: 764940749}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2122248118
 GameObject:
@@ -121333,18 +119287,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2122248123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -121712,18 +119654,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2124123128
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122016,18 +119946,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2126478643
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122636,18 +120554,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2132069718
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -123128,18 +121034,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &2133640275
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -123802,21 +121696,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 798601218257213628}
   m_Mesh: {fileID: -3434257315763221269, guid: 8d2e2e36c4d9f4b4b84a27a004fb6ebf, type: 3}
---- !u!4 &543450652241060667
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 919132148508146049}
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 74.64247, y: 74.64249, z: 74.64249}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1183083984}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!4 &543450652658013480
 Transform:
   m_ObjectHideFlags: 0
@@ -123855,7 +121734,7 @@ Transform:
   m_Children:
   - {fileID: 8463800496228138727}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: -180, y: -180, z: 0}
 --- !u!1 &798601218257213628
 GameObject:
@@ -123881,24 +121760,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!1 &919132148508146049
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 543450652241060667}
-  - component: {fileID: 3469287838171229342}
-  - component: {fileID: 1711813854445934676}
-  m_Layer: 0
-  m_Name: shoppingcart
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
 --- !u!1 &919132148988039058
 GameObject:
   m_ObjectHideFlags: 0
@@ -123918,24 +121779,6 @@ GameObject:
   - component: {fileID: 1042281165}
   m_Layer: 0
   m_Name: crantanele_7_4
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!1 &922240421377126129
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2146243221114689433}
-  - component: {fileID: 2202793362763507460}
-  - component: {fileID: 5393698572610240062}
-  m_Layer: 5
-  m_Name: Price
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -123985,6 +121828,75 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1001 &1085434306943310678
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.162
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655750, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1085434305844655768, guid: ba18aed05eb4695498491cee27baf920,
+        type: 3}
+      propertyPath: m_Name
+      value: Carucior
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ba18aed05eb4695498491cee27baf920, type: 3}
 --- !u!1 &1108957375330583761
 GameObject:
   m_ObjectHideFlags: 0
@@ -124096,103 +122008,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1622509372143921868
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622509372143921870}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.4808052, y: 0.03540317, z: 0.82902724}
-  m_Center: {x: 0.027837887, y: 0.0038371207, z: -0.044097215}
---- !u!23 &1622509372143921869
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622509372143921870}
-  m_Enabled: 0
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!1 &1622509372143921870
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1622509372143921871}
-  - component: {fileID: 1622509372143921874}
-  - component: {fileID: 1622509372143921869}
-  - component: {fileID: 1622509372143921868}
-  m_Layer: 0
-  m_Name: Stanga
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1622509372143921871
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622509372143921870}
-  m_LocalRotation: {x: -0.022086063, y: 0.023269787, z: -0.68806356, w: 0.72494096}
-  m_LocalPosition: {x: -0.251, y: 0.735, z: 0.189}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1183083984}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 3.6770003, z: -87.01}
---- !u!33 &1622509372143921874
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1622509372143921870}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!54 &1692480586430428758
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -124209,50 +122024,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!23 &1711813854445934676
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 919132148508146049}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: d3687f35b2bfea24fb5941c92884707b, type: 2}
-  - {fileID: 2100000, guid: 961e81b8fa6863b4887a45071fb0a9a7, type: 2}
-  - {fileID: 2100000, guid: f273a94ab7d3c4d45956249ee27bbf1f, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!23 &1711813856071609927
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -124313,18 +122084,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!4 &1874755722421721954
 Transform:
   m_ObjectHideFlags: 0
@@ -124396,34 +122155,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!224 &2146243221114689433
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 922240421377126129}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 69}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 3071031483498510849}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.8, y: 0.5}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 8, y: -107}
-  m_SizeDelta: {x: 0, y: 0.0000019073486}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &2202793362763507460
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 922240421377126129}
-  m_CullTransparentMesh: 0
 --- !u!4 &2208964820440684092 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2453976577289232494, guid: 9c868a72026b9e6478e50d6206f36ae0,
@@ -124680,7 +122411,7 @@ Transform:
   m_Children:
   - {fileID: 3043775862808560750}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1001 &3062221654074538955
 PrefabInstance:
@@ -124751,43 +122482,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 539d08b8a93e2e7448827a748ccad0cb, type: 3}
---- !u!224 &3071031483498510849
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7142772322221077112}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 4787168096499644231}
-  - {fileID: 2146243221114689433}
-  m_Father: {fileID: 4787168096536915610}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: -50, y: -50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &3146658867601466571
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096536915611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2083aca551a17334891b01ab24b1cabb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  addedItems: {fileID: 4787168096499644229}
-  prices: {fileID: 5393698572610240062}
-  cartContent: {fileID: 1183083985}
 --- !u!1 &3178732942235248622
 GameObject:
   m_ObjectHideFlags: 0
@@ -124814,14 +122508,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919132148988039058}
   m_Mesh: {fileID: -5395218353944092270, guid: bdcabc86afa01674a832872db293837a, type: 3}
---- !u!33 &3469287838171229342
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 919132148508146049}
-  m_Mesh: {fileID: 2784518488868607847, guid: 8bf1e32093e82dc4e9e5374fc713a423, type: 3}
 --- !u!23 &3647787107951984835
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -125202,103 +122888,6 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!65 &4254312251097348304
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4254312251097348318}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.44362196, y: 0.03540317, z: 0.82902724}
-  m_Center: {x: -0.046429515, y: 0.0038371056, z: -0.044097215}
---- !u!23 &4254312251097348305
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4254312251097348318}
-  m_Enabled: 0
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &4254312251097348306
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4254312251097348318}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &4254312251097348318
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4254312251097348319}
-  - component: {fileID: 4254312251097348306}
-  - component: {fileID: 4254312251097348305}
-  - component: {fileID: 4254312251097348304}
-  m_Layer: 0
-  m_Name: Dreapta
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &4254312251097348319
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4254312251097348318}
-  m_LocalRotation: {x: -0.022086129, y: -0.023269854, z: 0.68806356, w: 0.72494096}
-  m_LocalPosition: {x: 0.261, y: 0.762, z: 0.156}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1183083984}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: -3.677, z: 87.01}
 --- !u!1001 &4371191484851402322
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -125451,253 +123040,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4415845789156047812}
   m_Mesh: {fileID: -3364154044559605485, guid: 8d2e2e36c4d9f4b4b84a27a004fb6ebf, type: 3}
---- !u!222 &4787168096499644228
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096499644234}
-  m_CullTransparentMesh: 0
---- !u!114 &4787168096499644229
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096499644234}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: Produse
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: 2192
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 72
-  m_fontSizeBase: 50
-  m_fontWeight: 400
-  m_enableAutoSizing: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 1
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -22.487549, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!224 &4787168096499644231
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096499644234}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 3071031483498510849}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0.7, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!1 &4787168096499644234
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4787168096499644231}
-  - component: {fileID: 4787168096499644228}
-  - component: {fileID: 4787168096499644229}
-  m_Layer: 5
-  m_Name: List
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!223 &4787168096536915601
-Canvas:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096536915611}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_RenderMode: 2
-  m_Camera: {fileID: 0}
-  m_PlaneDistance: 100
-  m_PixelPerfect: 0
-  m_ReceivesEvents: 1
-  m_OverrideSorting: 0
-  m_OverridePixelPerfect: 0
-  m_SortingBucketNormalizedSize: 0
-  m_AdditionalShaderChannelsFlag: 25
-  m_SortingLayerID: 0
-  m_SortingOrder: 0
-  m_TargetDisplay: 0
---- !u!222 &4787168096536915604
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096536915611}
-  m_CullTransparentMesh: 0
---- !u!114 &4787168096536915606
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096536915611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
-  m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
-  m_PhysicalUnit: 3
-  m_FallbackScreenDPI: 96
-  m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
---- !u!114 &4787168096536915607
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096536915611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
---- !u!224 &4787168096536915610
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096536915611}
-  m_LocalRotation: {x: 0.28216586, y: -0, z: -0, w: 0.95936567}
-  m_LocalPosition: {x: 0, y: 0, z: -0.373}
-  m_LocalScale: {x: 0.0007278526, y: 0.0007278526, z: 0.0007278526}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 3071031483498510849}
-  m_Father: {fileID: 1183083984}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 32.779003, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 1.0859985}
-  m_SizeDelta: {x: 800, y: 300}
-  m_Pivot: {x: 0.5, y: 0}
---- !u!1 &4787168096536915611
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 4787168096536915610}
-  - component: {fileID: 4787168096536915601}
-  - component: {fileID: 4787168096536915606}
-  - component: {fileID: 4787168096536915607}
-  - component: {fileID: 4787168096536915604}
-  - component: {fileID: 8329383983173840380}
-  - component: {fileID: 3146658867601466571}
-  m_Layer: 5
-  m_Name: InterfataListaCumparaturi
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
 --- !u!4 &4832206736281090916
 Transform:
   m_ObjectHideFlags: 0
@@ -125728,95 +123070,6 @@ Transform:
   m_Father: {fileID: 7269473651779165270}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5393698572610240062
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 922240421377126129}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 0 Lei
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: 2192
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 53.1
-  m_fontWeight: 400
-  m_enableAutoSizing: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 50
-  m_fontStyle: 1
-  m_HorizontalAlignment: 2
-  m_VerticalAlignment: 512
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_enableWordWrapping: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 1
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 1
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!1 &5432676958767723980
 GameObject:
   m_ObjectHideFlags: 0
@@ -126074,18 +123327,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &6086323232027225648
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126320,18 +123561,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &6308508897259655083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126549,18 +123778,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &7111815227197478431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -126602,119 +123819,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1 &7142772322221077112
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 3071031483498510849}
-  m_Layer: 5
-  m_Name: GameObject
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!1 &7165438345744801962
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 7165438345744801965}
-  - component: {fileID: 7165438345744801966}
-  - component: {fileID: 7165438345744801967}
-  - component: {fileID: 7165438345744801964}
-  m_Layer: 0
-  m_Name: Baza
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &7165438345744801964
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7165438345744801962}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.5364809, y: 0.03540317, z: 0.7418609}
-  m_Center: {x: 0, y: 0.0038370527, z: -0.0005140603}
---- !u!4 &7165438345744801965
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7165438345744801962}
-  m_LocalRotation: {x: -0.033155207, y: 0, z: 0, w: 0.9994502}
-  m_LocalPosition: {x: 0, y: 0.5, z: 0.2}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1183083984}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: -3.8, y: 0, z: 0}
---- !u!33 &7165438345744801966
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7165438345744801962}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!23 &7165438345744801967
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7165438345744801962}
-  m_Enabled: 0
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!4 &7269473651779165270
 Transform:
   m_ObjectHideFlags: 0
@@ -126735,103 +123839,6 @@ Transform:
   m_Father: {fileID: 1961752948}
   m_RootOrder: 92
   m_LocalEulerAnglesHint: {x: 0, y: 90.874, z: 0}
---- !u!33 &8010350377465478360
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8010350377465478372}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!23 &8010350377465478361
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8010350377465478372}
-  m_Enabled: 0
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!1 &8010350377465478372
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8010350377465478375}
-  - component: {fileID: 8010350377465478360}
-  - component: {fileID: 8010350377465478361}
-  - component: {fileID: 8010350377465478374}
-  m_Layer: 0
-  m_Name: Fata
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &8010350377465478374
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8010350377465478372}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.5364809, y: 0.03540317, z: 0.38709474}
-  m_Center: {x: 0, y: 0.00383706, z: 0.018332109}
---- !u!4 &8010350377465478375
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8010350377465478372}
-  m_LocalRotation: {x: -0.6882583, y: -0, z: -0, w: 0.7254658}
-  m_LocalPosition: {x: 0, y: 0.705, z: 0.557}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1183083984}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: -86.985, y: 0, z: 0}
 --- !u!1 &8046115495665698540
 GameObject:
   m_ObjectHideFlags: 0
@@ -126848,103 +123855,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!1 &8185477591014503508
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 8185477591014503511}
-  - component: {fileID: 8185477591014503512}
-  - component: {fileID: 8185477591014503513}
-  - component: {fileID: 8185477591014503510}
-  m_Layer: 0
-  m_Name: Spate
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &8185477591014503510
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8185477591014503508}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.5364809, y: 0.03540317, z: 0.5646343}
-  m_Center: {x: 0, y: 0.003837052, z: -0.00051406026}
---- !u!4 &8185477591014503511
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8185477591014503508}
-  m_LocalRotation: {x: -0.7948814, y: -0, z: -0, w: 0.6067648}
-  m_LocalPosition: {x: 0, y: 0.712, z: -0.22}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1183083984}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: -105.287994, y: 0, z: 0}
---- !u!33 &8185477591014503512
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8185477591014503508}
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!23 &8185477591014503513
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8185477591014503508}
-  m_Enabled: 0
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
 --- !u!1001 &8189180732688797488
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -127020,36 +123930,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3701088556543279027}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &8329383983173840380
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4787168096536915611}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.5882353}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 749615b78f067c442b8275980b7ed7c8, type: 3}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!33 &8457705949119444339
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -127277,18 +124157,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &8598477555453982609
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -127557,18 +124425,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: 
-  itemDescription: 
-  itemNutritionalInfo:
-    grasimi: 0
-    valoareEnergetica: 0
-    glucide: 0
-    fibre: 0
-    sodiu: 0
-    proteine: 0
-    grasimiSaturate: 0
-  itemPrice: 0
-  isOnSale: 0
 --- !u!114 &9172177181450465156
 MonoBehaviour:
   m_ObjectHideFlags: 0
