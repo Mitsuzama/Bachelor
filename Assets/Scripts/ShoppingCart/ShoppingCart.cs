@@ -15,6 +15,8 @@ namespace CartLogic
         private HashSet<ItemInfo> removedItems = new HashSet<ItemInfo>();
         public event Action<ISet<ItemInfo>> OnContentChanged = set => { };
 
+
+        // sa am o fucntie in care sa am un array cu 2 elemente. daca pot lua alea doa obiecte sa le pun pe raft, continuam
         /**
         * @brief Verific daca am deja o instanta a caruciorului
         */
@@ -36,6 +38,7 @@ namespace CartLogic
             var item = other.GetComponent<ItemInfo>();
             if (item != null)
             {
+                item.ItemInCart = true;
                 AddItem(item);
             }
             
@@ -47,6 +50,7 @@ namespace CartLogic
 
             if (item != null)
             {
+                item.ItemInCart = false;
                 RemoveItem(item);
             }
         }

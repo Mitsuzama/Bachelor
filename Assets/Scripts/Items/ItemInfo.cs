@@ -10,6 +10,9 @@ namespace Item
     */
     public class ItemInfo : MonoBehaviour
     {
+        [Tooltip("Varabila folosita in logarea datelor ce spune daca oiectul este sau nu in cos")]
+        private bool itemInCart = false;
+
         [Tooltip("Numele alimentului din magazin")]
         [SerializeField] private string itemName;
 
@@ -67,5 +70,10 @@ namespace Item
             itemNutritionalInfo = nutritionalInfo;
         }
 
+        public bool ItemInCart
+        {
+            get { return itemInCart; }
+            set { itemInCart = value; }
+        }
     }
 }
