@@ -1,18 +1,34 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.XR.Interaction.Toolkit;
+using Item;
+using Logger;
+
 
 public class GazeDurationTracker : MonoBehaviour
 {
-    [Tooltip("Cat timp se uita utiizatorul la un obiect")]
+    private ItemInfo itemInfo;
+    int currentStatus = Status.NONE;
+
+    [Tooltip("timpul de privire a unui produs")]
     public float gazeDuration = 0f;
 
-    [Tooltip("Cat timp este nevoie ca sa salvez timpul / sa aiba o insemnatate")]
-    public float requiredGazeDuration = 2f;
+    [Tooltip("timpul necesar pentru relevanta")]
+    public float requiredGazeDuration = 3f;
+
+    public UnityEvent gazeDurationIsMeaningful;
+
     void Start()
     {
-        
+        itemInfo = GetComponent<ItemInfo>();
+
+        if(itemInfo == null)
+        {
+            Debug.Log("I can not access the item information for" + gameObject.name);
+        }
+        //gazeDurationIsMeaningful.Add
     }
 
     void Update()
@@ -23,14 +39,40 @@ public class GazeDurationTracker : MonoBehaviour
             gazeDuration += Time.deltaTime;
             if (gazeDuration >= requiredGazeDuration)
             {
+                //Debug.Log("AM INTRAT IN : (gazeDuration >= requiredGazeDuration)");
                 GazeCompleted();
             }
         }
     }
 
+
     void GazeCompleted()
     {
-        //Debug.Log("Utilizatorul s-a uitat la obiect cat trebuie");
-        // aici aduc ce trebuie facut cu timpul asta
+        Debug.Log("AM INTRAT IN :GazeCompleted");
+        if (currentStatus == Status.NONE && itemInfo.ItemInCart == false)
+        {
+            currentStatus = Status.TEMPTATION;
+            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+        }
+        else if (currentStatus == Status.TEMPTATION && itemInfo.ItemInCart == true)
+        {
+            currentStatus = Status.BUY;
+            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+        }
+        else if (currentStatus == Status.TEMPTATION && itemInfo.ItemInCart == false)
+        {
+            currentStatus = Status.TEMPTATION;
+            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+        }
+        else if (currentStatus == Status.BUY && itemInfo.ItemInCart == false)
+        {
+            currentStatus = Status.TEMPTATION;
+            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+        }
+        else if (currentStatus == Status.BUY && itemInfo.ItemInCart == true)
+        {
+            currentStatus = Status.BUY;
+            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+        }
     }
 }

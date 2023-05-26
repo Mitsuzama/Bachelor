@@ -1,0 +1,15 @@
+{
+    "_id": 34168,
+    "nume": "Item2",
+    "descriere": "Desc2",
+    "pret": 4.199999809265137,
+    "nutritional_info": {
+        "grasimi": 0.0,
+        "valoareEnergetica": 0.0,
+        "glucide": 0.0,
+        "fibre": 0.0,
+        "sodiu": 0.0,
+        "proteine": 0.0,
+        "grasimiSaturate": 0.0
+    }
+}

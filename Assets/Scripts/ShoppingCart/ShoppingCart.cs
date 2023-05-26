@@ -62,8 +62,7 @@ namespace CartLogic
         {
             cartItems.Add(item);
             OnContentChanged(cartItems);
-            Debug.Log("Adaugat cu succes: ");
-            Debug.Log(item.ItemName);
+            Debug.Log("Successfully added " + item.ItemName);
         }
 
         /**
@@ -74,7 +73,7 @@ namespace CartLogic
             cartItems.Remove(item);
             removedItems.Add(item);
             OnContentChanged(cartItems);
-            Debug.Log("Eliminat cu succes!");
+            //Debug.Log("Eliminat cu succes!");
             // Debug.Log();
         }
 
