@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Events;
 using UnityEngine.XR.Interaction.Toolkit;
 using Item;
 using Logger;
@@ -9,16 +8,16 @@ using Logger;
 
 public class GazeDurationTracker : MonoBehaviour
 {
+    private float lastGazeDuration = 0f;
     private ItemInfo itemInfo;
-    int currentStatus = Status.NONE;
+    private int currentStatus = Status.NONE;
+    private bool isSameStatus = false;
 
     [Tooltip("timpul de privire a unui produs")]
     public float gazeDuration = 0f;
 
     [Tooltip("timpul necesar pentru relevanta")]
     public float requiredGazeDuration = 3f;
-
-    public UnityEvent gazeDurationIsMeaningful;
 
     void Start()
     {
@@ -28,7 +27,6 @@ public class GazeDurationTracker : MonoBehaviour
         {
             Debug.Log("I can not access the item information for" + gameObject.name);
         }
-        //gazeDurationIsMeaningful.Add
     }
 
     void Update()
@@ -37,9 +35,12 @@ public class GazeDurationTracker : MonoBehaviour
         if (GetComponent<XRBaseInteractable>().isSelected)
         {
             gazeDuration += Time.deltaTime;
-            if (gazeDuration >= requiredGazeDuration)
+            if(isSameStatus == true && (gazeDuration - lastGazeDuration) < 1f)
             {
-                //Debug.Log("AM INTRAT IN : (gazeDuration >= requiredGazeDuration)");
+                //pass
+            }
+            else if (gazeDuration >= requiredGazeDuration)
+            {
                 GazeCompleted();
             }
         }
@@ -48,31 +49,29 @@ public class GazeDurationTracker : MonoBehaviour
 
     void GazeCompleted()
     {
-        Debug.Log("AM INTRAT IN :GazeCompleted");
-        if (currentStatus == Status.NONE && itemInfo.ItemInCart == false)
+        isSameStatus = true;
+
+        if (currentStatus == Status.NONE)
         {
             currentStatus = Status.TEMPTATION;
-            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+            isSameStatus = false;
         }
-        else if (currentStatus == Status.TEMPTATION && itemInfo.ItemInCart == true)
-        {
-            currentStatus = Status.BUY;
-            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
-        }
-        else if (currentStatus == Status.TEMPTATION && itemInfo.ItemInCart == false)
+        else if (currentStatus == Status.BUY && !itemInfo.ItemInCart)
         {
             currentStatus = Status.TEMPTATION;
-            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+            isSameStatus = false;
         }
-        else if (currentStatus == Status.BUY && itemInfo.ItemInCart == false)
+        else if (currentStatus == Status.TEMPTATION)
         {
-            currentStatus = Status.TEMPTATION;
-            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+            if (itemInfo.ItemInCart)
+            {
+                currentStatus = Status.BUY;
+                isSameStatus = false;
+            }
         }
-        else if (currentStatus == Status.BUY && itemInfo.ItemInCart == true)
-        {
-            currentStatus = Status.BUY;
-            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
-        }
+
+        DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+
+        lastGazeDuration = gazeDuration;
     }
 }

@@ -2,24 +2,12 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
-using Item;
 using Newtonsoft.Json;
+using Item;
+using Logger;
 
 namespace Logger
 {
-    public class JSONData
-    {
-        public string timestamp;
-        public string tip_actiune;
-        public float durata;
-        public int _id;
-        public string nume;
-        public string descriere;
-        public float pret;
-        public NutritionalInfo nutritional_info;
-    }
-
-
     public static class DataLogger
     {
         public static JSONData CreateJsonDocument(int tip_actiune, float durata, ItemInfo itemInfo)
@@ -63,30 +51,21 @@ namespace Logger
             {
                 string readText = File.ReadAllText(saveFilePath);
                 savedDataList = JsonConvert.DeserializeObject<List<JSONData>>(readText);
-                string sss = JsonConvert.SerializeObject(savedDataList, Formatting.Indented);
-                Debug.Log("ACESTA E savedDataList: " + sss);
             }
 
             try
             {
                 JSONData newEntry = CreateJsonDocument(actionType, duration, itemInfo);
-                string output = JsonConvert.SerializeObject(newEntry);
-                Debug.Log("ACESTA E output: " + output);
                 savedDataList.Add(newEntry);
-
                 string json = JsonConvert.SerializeObject(savedDataList, Formatting.Indented);
-
 
                 Debug.Log("ACESTA E JSONUL: " + json);
                 File.WriteAllText(saveFilePath, json);
-
             }
             catch (Exception ex)
             {
                 Debug.Log(ex);
             }
-            
         }
     }
-
 }

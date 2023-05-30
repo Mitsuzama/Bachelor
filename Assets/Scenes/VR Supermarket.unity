@@ -349,9 +349,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &4095452
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -816,9 +813,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &7498021
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1111,9 +1105,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &9379742
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1692,9 +1683,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &14274536
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2062,9 +2050,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &23986554
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2668,9 +2653,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &32320690
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2979,9 +2961,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &34047110
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3274,9 +3253,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &36990514
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4234,9 +4210,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &58065711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5275,9 +5248,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &71179699
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5758,9 +5728,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &72119217
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7696,9 +7663,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &133564449
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8240,6 +8204,42 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!21 &152197025
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Default UI Material
+  m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
 --- !u!1 &153998645
 GameObject:
   m_ObjectHideFlags: 0
@@ -8450,9 +8450,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &156390691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8745,9 +8742,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &156494482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9040,9 +9034,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &160129886
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10242,9 +10233,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &177555605
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10553,9 +10541,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &183185772
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11201,9 +11186,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &195480387
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11496,9 +11478,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &195752407
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12914,9 +12893,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &215557307
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14047,9 +14023,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &236949728
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14342,9 +14315,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &237501665
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15230,9 +15200,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &252362507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15509,9 +15476,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &262875726
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15976,9 +15940,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &277639864
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16684,9 +16645,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &297231995
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16979,9 +16937,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &299434466
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17696,9 +17651,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &305170100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18167,9 +18119,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &309613615
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19074,9 +19023,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &325035400
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19385,9 +19331,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &325856643
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19664,9 +19607,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &332576999
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20303,9 +20243,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &351394509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20598,9 +20535,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &355093998
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20893,9 +20827,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &355869647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21188,9 +21119,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &355956881
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22413,9 +22341,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &410081230
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23833,9 +23758,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &434261958
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24219,9 +24141,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &451714487
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24498,9 +24417,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &452497254
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24809,9 +24725,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &455282959
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25570,9 +25483,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &467187333
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26492,9 +26402,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &481574112
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27225,9 +27132,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &491124001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27536,9 +27440,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &493435408
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27815,9 +27716,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &494928721
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28529,9 +28427,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &505094900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29184,9 +29079,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &527258396
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29585,9 +29477,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &529960369
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29880,9 +29769,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &530712321
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30363,9 +30249,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &542635486
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30642,9 +30525,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &543623347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31556,9 +31436,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &551263395
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32183,9 +32060,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &575197056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32760,9 +32634,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &601573348
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33772,9 +33643,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &620144225
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -34131,9 +33999,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &631535897
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35090,9 +34955,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &648688345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35557,9 +35419,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &651986925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35852,9 +35711,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &657044387
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36147,9 +36003,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &658251252
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36747,9 +36600,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &666352813
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -37730,9 +37580,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &689523426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38025,9 +37872,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &693195189
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38304,9 +38148,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &698036842
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38679,9 +38520,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &703931267
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38974,9 +38812,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &704484213
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39427,9 +39262,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &714913182
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -40626,9 +40458,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &731429114
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41707,9 +41536,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &747688658
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42002,9 +41828,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &749456142
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42281,9 +42104,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &753619715
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -42823,9 +42643,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &762664298
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43390,9 +43207,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &765148432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43685,9 +43499,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &765807712
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -43996,9 +43807,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &766493688
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44366,9 +44174,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &776371374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -45922,9 +45727,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &803430482
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46469,9 +46271,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &812172462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46844,9 +46643,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &819460363
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47181,9 +46977,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &821103354
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47574,9 +47367,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &823820374
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -47998,9 +47788,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &828764451
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -48534,9 +48321,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &838803670
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49173,9 +48957,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &842581489
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49548,9 +49329,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &855788572
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -49934,9 +49712,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &866475910
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50293,9 +50068,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &869427771
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50588,9 +50360,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &870989380
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -50949,9 +50718,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &875491888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51350,9 +51116,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &880455762
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -51989,9 +51752,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &890998323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52367,9 +52127,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &897375197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52704,9 +52461,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &910688719
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53246,9 +53000,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &914679907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53557,9 +53308,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &914875468
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -53836,9 +53584,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &923353747
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54131,9 +53876,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &924520223
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -54722,9 +54464,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &928047196
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55033,9 +54772,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &932528743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -55980,9 +55716,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &947897546
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -56756,9 +56489,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &956125270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57051,9 +56781,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &956355338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57437,9 +57164,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &961334137
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -57732,9 +57456,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &964070462
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58183,9 +57904,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &977390545
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58494,9 +58212,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &983555726
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -58863,9 +58578,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &988755292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59224,9 +58936,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &991976930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59625,9 +59334,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1001185393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60096,9 +59802,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1025225719
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60638,9 +60341,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1028008913
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60917,9 +60617,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1028062368
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61292,9 +60989,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1031094312
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -61911,9 +61605,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!1001 &1042602810
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -63034,9 +62725,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1079303985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64013,9 +63701,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1085266402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64926,9 +64611,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1097198479
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65336,9 +65018,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1101377654
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65647,9 +65326,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1102194856
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -66140,42 +65816,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1107095992}
   m_PrefabAsset: {fileID: 0}
---- !u!21 &1107856933
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Default UI Material
-  m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 4
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _MainTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
-    m_Floats:
-    - _ColorMask: 15
-    - _Stencil: 0
-    - _StencilComp: 8
-    - _StencilOp: 0
-    - _StencilReadMask: 255
-    - _StencilWriteMask: 255
-    - _UseUIAlphaClip: 0
-    m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-  m_BuildTextureStacks: []
 --- !u!1 &1110089751
 GameObject:
   m_ObjectHideFlags: 0
@@ -66730,9 +66370,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1119806187
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67288,9 +66925,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1126824359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -67598,9 +67232,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1130672838
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68656,9 +68287,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1150029701
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68967,9 +68595,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1152675118
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -69630,9 +69255,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 3
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!1001 &1174220058
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -69821,9 +69443,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1178431172
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70116,9 +69735,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1191396469
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -70844,9 +70460,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1201526056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -71311,9 +70924,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1226712655
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72122,9 +71732,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1240412177
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72975,9 +72582,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1256375269
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73270,9 +72874,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1264403279
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -73656,9 +73257,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1269277443
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74368,9 +73966,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1279392453
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74647,9 +74242,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1279859934
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75108,9 +74700,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1287638107
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75527,9 +75116,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1295758498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -75994,9 +75580,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1314425702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76289,9 +75872,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1315589569
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -76831,9 +76411,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1324932146
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77142,9 +76719,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1326784186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77909,9 +77483,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1344895917
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78188,9 +77759,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1349174301
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -78595,9 +78163,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1357615330
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -79078,9 +78643,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1367068754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -79319,6 +78881,158 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1367068751}
   m_Mesh: {fileID: -5395218353944092270, guid: bdcabc86afa01674a832872db293837a, type: 3}
+--- !u!21 &1367176509
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LiberationSans SDF Material
+  m_Shader: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FaceTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 28268798066460806, guid: 2e498d1c8094910479dc3e1b768306a4,
+          type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Ambient: 0.5
+    - _Bevel: 0.5
+    - _BevelClamp: 0
+    - _BevelOffset: 0
+    - _BevelRoundness: 0
+    - _BevelWidth: 0
+    - _BumpFace: 0
+    - _BumpOutline: 0
+    - _BumpScale: 1
+    - _ColorMask: 15
+    - _CullMode: 0
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _Diffuse: 0.5
+    - _DstBlend: 0
+    - _FaceDilate: 0
+    - _FaceUVSpeedX: 0
+    - _FaceUVSpeedY: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GlowInner: 0.05
+    - _GlowOffset: 0
+    - _GlowOuter: 0.05
+    - _GlowPower: 0.75
+    - _GradientScale: 10
+    - _LightAngle: 3.1416
+    - _MaskSoftnessX: 0
+    - _MaskSoftnessY: 0
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OutlineSoftness: 0
+    - _OutlineUVSpeedX: 0
+    - _OutlineUVSpeedY: 0
+    - _OutlineWidth: 0
+    - _Parallax: 0.02
+    - _PerspectiveFilter: 0.875
+    - _Reflectivity: 10
+    - _ScaleRatioA: 0.9
+    - _ScaleRatioB: 0.73125
+    - _ScaleRatioC: 0.73125
+    - _ScaleX: 1
+    - _ScaleY: 1
+    - _ShaderFlags: 0
+    - _Sharpness: 0
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularPower: 2
+    - _SrcBlend: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _TextureHeight: 512
+    - _TextureWidth: 512
+    - _UVSec: 0
+    - _UnderlayDilate: 0
+    - _UnderlayOffsetX: 0
+    - _UnderlayOffsetY: 0
+    - _UnderlaySoftness: 0
+    - _VertexOffsetX: 0
+    - _VertexOffsetY: 0
+    - _WeightBold: 0.75
+    - _WeightNormal: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
+    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
+    - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
+    - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
+  m_BuildTextureStacks: []
 --- !u!1001 &1378501374
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -79458,9 +79172,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1382510754
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -80319,9 +80030,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1396383016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -80689,9 +80397,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1399368745
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81156,9 +80861,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1406223935
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81526,9 +81228,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1410587590
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -81902,9 +81601,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1418746034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82537,9 +82233,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1439838458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82832,9 +82525,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1440189431
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -83728,9 +83418,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1449392498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84023,9 +83710,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1449506848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84302,9 +83986,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1452599169
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -84870,9 +84551,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1456650683
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85165,9 +84843,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1463847953
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -85460,9 +85135,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1465991214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -86450,9 +86122,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1490765077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -87751,9 +87420,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1513028670
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89358,9 +89024,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1537766146
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -89750,9 +89413,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1548494492
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -91099,9 +90759,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1573215142
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -91805,9 +91462,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1589756281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94572,9 +94226,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1678754402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -95286,9 +94937,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1711592216
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -96209,158 +95857,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1726961682}
   m_PrefabAsset: {fileID: 0}
---- !u!21 &1730461736
-Material:
-  serializedVersion: 8
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: LiberationSans SDF Material
-  m_Shader: {fileID: 4800000, guid: fe393ace9b354375a9cb14cdbbc28be4, type: 3}
-  m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 1
-  m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
-  stringTagMap: {}
-  disabledShaderPasses: []
-  m_SavedProperties:
-    serializedVersion: 3
-    m_TexEnvs:
-    - _BumpMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _Cube:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailAlbedoMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailMask:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _DetailNormalMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _EmissionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _FaceTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MainTex:
-        m_Texture: {fileID: 28268798066460806, guid: 2e498d1c8094910479dc3e1b768306a4,
-          type: 2}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _MetallicGlossMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _OcclusionMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _OutlineTex:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _ParallaxMap:
-        m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    m_Ints: []
-    m_Floats:
-    - _Ambient: 0.5
-    - _Bevel: 0.5
-    - _BevelClamp: 0
-    - _BevelOffset: 0
-    - _BevelRoundness: 0
-    - _BevelWidth: 0
-    - _BumpFace: 0
-    - _BumpOutline: 0
-    - _BumpScale: 1
-    - _ColorMask: 15
-    - _CullMode: 0
-    - _Cutoff: 0.5
-    - _DetailNormalMapScale: 1
-    - _Diffuse: 0.5
-    - _DstBlend: 0
-    - _FaceDilate: 0
-    - _FaceUVSpeedX: 0
-    - _FaceUVSpeedY: 0
-    - _GlossMapScale: 1
-    - _Glossiness: 0.5
-    - _GlossyReflections: 1
-    - _GlowInner: 0.05
-    - _GlowOffset: 0
-    - _GlowOuter: 0.05
-    - _GlowPower: 0.75
-    - _GradientScale: 10
-    - _LightAngle: 3.1416
-    - _MaskSoftnessX: 0
-    - _MaskSoftnessY: 0
-    - _Metallic: 0
-    - _Mode: 0
-    - _OcclusionStrength: 1
-    - _OutlineSoftness: 0
-    - _OutlineUVSpeedX: 0
-    - _OutlineUVSpeedY: 0
-    - _OutlineWidth: 0
-    - _Parallax: 0.02
-    - _PerspectiveFilter: 0.875
-    - _Reflectivity: 10
-    - _ScaleRatioA: 0.9
-    - _ScaleRatioB: 0.73125
-    - _ScaleRatioC: 0.73125
-    - _ScaleX: 1
-    - _ScaleY: 1
-    - _ShaderFlags: 0
-    - _Sharpness: 0
-    - _SmoothnessTextureChannel: 0
-    - _SpecularHighlights: 1
-    - _SpecularPower: 2
-    - _SrcBlend: 1
-    - _Stencil: 0
-    - _StencilComp: 8
-    - _StencilOp: 0
-    - _StencilReadMask: 255
-    - _StencilWriteMask: 255
-    - _TextureHeight: 512
-    - _TextureWidth: 512
-    - _UVSec: 0
-    - _UnderlayDilate: 0
-    - _UnderlayOffsetX: 0
-    - _UnderlayOffsetY: 0
-    - _UnderlaySoftness: 0
-    - _VertexOffsetX: 0
-    - _VertexOffsetY: 0
-    - _WeightBold: 0.75
-    - _WeightNormal: 0
-    - _ZWrite: 1
-    m_Colors:
-    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _EnvMatrixRotation: {r: 0, g: 0, b: 0, a: 0}
-    - _FaceColor: {r: 1, g: 1, b: 1, a: 1}
-    - _GlowColor: {r: 0, g: 1, b: 0, a: 0.5}
-    - _MaskCoord: {r: 0, g: 0, b: 32767, a: 32767}
-    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
-    - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
-    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
-    - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.5}
-  m_BuildTextureStacks: []
 --- !u!1 &1742994271
 GameObject:
   m_ObjectHideFlags: 0
@@ -96415,9 +95911,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1742994274
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -96866,9 +96359,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1744688434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97505,9 +96995,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1758870748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -97816,9 +97303,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1759229398
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -98267,9 +97751,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1766121755
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99059,9 +98540,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1791707936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -99830,9 +99308,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 3
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!1001 &1808662413
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -100164,9 +99639,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1813368068
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100615,9 +100087,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1828007906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -100926,9 +100395,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1830093835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101429,9 +100895,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1833729221
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -101708,9 +101171,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1835476251
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -102175,9 +101635,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1843392574
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -102743,9 +102200,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1861815947
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -103022,9 +102476,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1864157636
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -103413,9 +102864,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1870165142
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -103833,9 +103281,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 3
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!1001 &1871504048
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -104818,9 +104263,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1895927645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105273,9 +104715,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1909579351
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105568,9 +105007,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1917239399
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -105938,9 +105374,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1920304927
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -106391,9 +105824,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1928629603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -107850,9 +107280,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1957839924
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108145,9 +107572,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1960653320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108758,9 +108182,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1962527748
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109069,9 +108490,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1976251329
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110054,6 +109472,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1994139927}
   - component: {fileID: 1994139926}
+  - component: {fileID: 1994139928}
   m_Layer: 0
   m_Name: AudioManager
   m_TagString: Untagged
@@ -110073,7 +109492,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91c3a3494ddb37e409bae3291e527c1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioSource: {fileID: 793290592}
+  audioSource: {fileID: 1994139928}
 --- !u!4 &1994139927
 Transform:
   m_ObjectHideFlags: 0
@@ -110090,6 +109509,102 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1994139928
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1994139925}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: b4c750691f1af0d4ca243b7b72325637, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.498
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &1998620461
 GameObject:
   m_ObjectHideFlags: 0
@@ -110128,9 +109643,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &1998620463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110480,9 +109992,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2004060926
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -110759,9 +110268,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2004446048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112252,9 +111758,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2016197717
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112531,9 +112034,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2021147165
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112826,9 +112326,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2024694673
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113262,9 +112759,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2027704125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -113743,9 +113237,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2030453121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -114206,9 +113697,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2039140319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117488,9 +116976,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2122248121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117858,9 +117343,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2124123126
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118153,9 +117635,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2126478641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118764,9 +118243,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2132069716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -119247,9 +118723,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &2133640273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -121617,9 +121090,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &6086323232027225646
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -121854,9 +121324,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &6308508897259655081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122074,9 +121541,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &7111815227197478429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122456,9 +121920,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &8598477555453982607
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122727,9 +122188,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
-  gazeDurationIsMeaningful:
-    m_PersistentCalls:
-      m_Calls: []
 --- !u!114 &9172177181450465154
 MonoBehaviour:
   m_ObjectHideFlags: 0
