@@ -1,15 +1,812 @@
-{
-    "_id": 34168,
-    "nume": "Item2",
-    "descriere": "Desc2",
-    "pret": 4.199999809265137,
+[
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.016878,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
     "nutritional_info": {
-        "grasimi": 0.0,
-        "valoareEnergetica": 0.0,
-        "glucide": 0.0,
-        "fibre": 0.0,
-        "sodiu": 0.0,
-        "proteine": 0.0,
-        "grasimiSaturate": 0.0
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
     }
-}
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.1287148,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.171899,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.18919468,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.216923,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.24562645,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.275596,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.30185246,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.32546043,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.352266,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.38346887,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.4087584,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.43582821,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.46796131,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.49294043,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.519039,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.53701782,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.56095648,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.58988833,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.61718345,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.64475322,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.6783793,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.700805,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.72879243,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.75926566,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.785242,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.81246233,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.84081173,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.86754942,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.896134,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.9265027,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.95156527,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.97975039,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.00820875,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.03533936,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.06360245,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.09357929,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.12033033,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.14614964,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.17858458,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.20537138,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.2298274,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.25927544,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.28845739,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "2023-05-30",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00632238,
+    "_id": 35286,
+    "nume": "Item1",
+    "descriere": "Desc1",
+    "pret": 2.2,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  }
+]
