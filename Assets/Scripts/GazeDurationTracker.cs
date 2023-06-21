@@ -25,7 +25,7 @@ public class GazeDurationTracker : MonoBehaviour
 
         if(itemInfo == null)
         {
-            Debug.Log("I can not access the item information for" + gameObject.name);
+            Debug.Log("I can not access the item information for " + gameObject.name);
         }
     }
 
@@ -70,8 +70,11 @@ public class GazeDurationTracker : MonoBehaviour
             }
         }
 
-        DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
-
+        if(!isSameStatus)
+        {
+            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+        }
+        
         lastGazeDuration = gazeDuration;
     }
 }

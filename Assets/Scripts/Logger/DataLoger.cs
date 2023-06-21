@@ -14,7 +14,10 @@ namespace Logger
         {
             JSONData jsonDocument = new JSONData();
 
-            jsonDocument.timestamp = System.DateTime.UtcNow.ToString("yyyy-MM-dd");
+            DateTimeOffset dateTime = DateTimeOffset.UtcNow;
+            long unixTimestamp = dateTime.ToUnixTimeMilliseconds();
+
+            jsonDocument.timestamp = unixTimestamp.ToString();
             jsonDocument.tip_actiune = (tip_actiune == 1) ? "TEMPTATION" : "BUY"; ;
             jsonDocument.durata = durata;
             jsonDocument._id = itemInfo.GetInstanceID();

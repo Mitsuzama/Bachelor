@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 8765242973144529243}
   - component: {fileID: 8237834726733631172}
   - component: {fileID: 6682877882126522378}
-  - component: {fileID: 4374907485929364868}
+  - component: {fileID: 4963499593174780703}
+  - component: {fileID: 4342013243890616769}
   m_Layer: 0
   m_Name: DaysMini
   m_TagString: Untagged
@@ -213,7 +214,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -251,7 +252,7 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!114 &4374907485929364868
+--- !u!114 &4963499593174780703
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -260,18 +261,32 @@ MonoBehaviour:
   m_GameObject: {fileID: 3335746483754847582}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
+  m_Script: {fileID: 11500000, guid: 6f486ee52a3f48b4b8b6c1d4bb1b7f52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: Biskrem Biscuiti
-  itemDescription: 'Biscuiti umpluti cu crema (30%) de cacao.  '
+  itemName: 
+  itemDescription: 
   itemNutritionalInfo:
-    grasimi: 23
-    valoareEnergetica: 493
-    glucide: 64
-    fibre: 2.1
-    sodiu: 0.52
-    proteine: 5.8
-    grasimiSaturate: 10
-  itemPrice: 4.85
+    grasimi: 0
+    valoareEnergetica: 0
+    glucide: 0
+    fibre: 0
+    sodiu: 0
+    proteine: 0
+    grasimiSaturate: 0
+  itemPrice: 0
   isOnSale: 0
+--- !u!114 &4342013243890616769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3335746483754847582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed9508f92446e64fafbfde69f403ff3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gazeDuration: 0
+  requiredGazeDuration: 3

@@ -1,12 +1,12 @@
 [
   {
-    "timestamp": "2023-05-30",
+    "timestamp": "1686554392",
     "tip_actiune": "TEMPTATION",
-    "durata": 3.01263881,
-    "_id": 33518,
-    "nume": "Item2",
-    "descriere": "Desc2",
-    "pret": 4.2,
+    "durata": 3.00779915,
+    "_id": -3794,
+    "nume": "Mar",
+    "descriere": "",
+    "pret": 0.0,
     "nutritional_info": {
       "grasimi": 0.0,
       "valoareEnergetica": 0.0,
@@ -18,13 +18,31 @@
     }
   },
   {
-    "timestamp": "2023-05-30",
+    "timestamp": "1686557990",
     "tip_actiune": "TEMPTATION",
-    "durata": 3.134909,
-    "_id": 33518,
-    "nume": "Item2",
-    "descriere": "Desc2",
-    "pret": 4.2,
+    "durata": 3.01056075,
+    "_id": -3136,
+    "nume": "Mar",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 52.0,
+      "glucide": 10.4,
+      "fibre": 2.4,
+      "sodiu": 1.0,
+      "proteine": 0.3,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687009562",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00937271,
+    "_id": -9608,
+    "nume": "Mango",
+    "descriere": "",
+    "pret": 0.0,
     "nutritional_info": {
       "grasimi": 0.0,
       "valoareEnergetica": 0.0,
@@ -36,67 +54,13 @@
     }
   },
   {
-    "timestamp": "2023-05-30",
-    "tip_actiune": "TEMPTATION",
-    "durata": 4.138555,
-    "_id": 33518,
-    "nume": "Item2",
-    "descriere": "Desc2",
-    "pret": 4.2,
-    "nutritional_info": {
-      "grasimi": 0.0,
-      "valoareEnergetica": 0.0,
-      "glucide": 0.0,
-      "fibre": 0.0,
-      "sodiu": 0.0,
-      "proteine": 0.0,
-      "grasimiSaturate": 0.0
-    }
-  },
-  {
-    "timestamp": "2023-05-30",
-    "tip_actiune": "TEMPTATION",
-    "durata": 5.140946,
-    "_id": 33518,
-    "nume": "Item2",
-    "descriere": "Desc2",
-    "pret": 4.2,
-    "nutritional_info": {
-      "grasimi": 0.0,
-      "valoareEnergetica": 0.0,
-      "glucide": 0.0,
-      "fibre": 0.0,
-      "sodiu": 0.0,
-      "proteine": 0.0,
-      "grasimiSaturate": 0.0
-    }
-  },
-  {
-    "timestamp": "2023-05-30",
-    "tip_actiune": "TEMPTATION",
-    "durata": 3.00816464,
-    "_id": 35286,
-    "nume": "Item1",
-    "descriere": "Desc1",
-    "pret": 2.2,
-    "nutritional_info": {
-      "grasimi": 0.0,
-      "valoareEnergetica": 0.0,
-      "glucide": 0.0,
-      "fibre": 0.0,
-      "sodiu": 0.0,
-      "proteine": 0.0,
-      "grasimiSaturate": 0.0
-    }
-  },
-  {
-    "timestamp": "2023-05-30",
+    "timestamp": "1687009562",
     "tip_actiune": "BUY",
-    "durata": 3.03534865,
-    "_id": 35286,
-    "nume": "Item1",
-    "descriere": "Desc1",
-    "pret": 2.2,
+    "durata": 3.2893424,
+    "_id": -9608,
+    "nume": "Mango",
+    "descriere": "",
+    "pret": 0.0,
     "nutritional_info": {
       "grasimi": 0.0,
       "valoareEnergetica": 0.0,
@@ -108,13 +72,103 @@
     }
   },
   {
-    "timestamp": "2023-05-30",
+    "timestamp": "1687252978",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.01079655,
+    "_id": -11484,
+    "nume": "Mango",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687252983",
     "tip_actiune": "BUY",
-    "durata": 3.06366658,
-    "_id": 35286,
-    "nume": "Item1",
-    "descriere": "Desc1",
-    "pret": 2.2,
+    "durata": 8.1699,
+    "_id": -11484,
+    "nume": "Mango",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687252997",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00893116,
+    "_id": -10570,
+    "nume": "",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687252997",
+    "tip_actiune": "BUY",
+    "durata": 3.02383566,
+    "_id": -10570,
+    "nume": "",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687253031",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00116134,
+    "_id": -12404,
+    "nume": "",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687253033",
+    "tip_actiune": "BUY",
+    "durata": 5.01542473,
+    "_id": -12404,
+    "nume": "",
+    "descriere": "",
+    "pret": 0.0,
     "nutritional_info": {
       "grasimi": 0.0,
       "valoareEnergetica": 0.0,

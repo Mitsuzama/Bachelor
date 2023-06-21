@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 5068537043008107785}
   - component: {fileID: 5593966155740562070}
   - component: {fileID: 7155432127572202584}
-  - component: {fileID: 235773435578995158}
+  - component: {fileID: -3582215422904163428}
+  - component: {fileID: 963058542962933318}
   m_Layer: 0
   m_Name: MilkaAlpin
   m_TagString: Untagged
@@ -213,7 +214,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -251,7 +252,7 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!114 &235773435578995158
+--- !u!114 &-3582215422904163428
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -260,18 +261,32 @@ MonoBehaviour:
   m_GameObject: {fileID: 1277221696844841228}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
+  m_Script: {fileID: 11500000, guid: 6f486ee52a3f48b4b8b6c1d4bb1b7f52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: Milka Ciocolata cu lapte alpin
-  itemDescription: Ciocolata cu lapte alpin.
+  itemName: 
+  itemDescription: 
   itemNutritionalInfo:
-    grasimi: 29
-    valoareEnergetica: 532
-    glucide: 59
-    fibre: 1.8
-    sodiu: 0.27
-    proteine: 6.1
-    grasimiSaturate: 17
-  itemPrice: 4.69
+    grasimi: 0
+    valoareEnergetica: 0
+    glucide: 0
+    fibre: 0
+    sodiu: 0
+    proteine: 0
+    grasimiSaturate: 0
+  itemPrice: 0
   isOnSale: 0
+--- !u!114 &963058542962933318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1277221696844841228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed9508f92446e64fafbfde69f403ff3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gazeDuration: 0
+  requiredGazeDuration: 3

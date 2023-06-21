@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 2052249415813306054}
   - component: {fileID: 1697224818474049881}
   - component: {fileID: 4134640863743440791}
-  - component: {fileID: 6442857620298461721}
+  - component: {fileID: -3271371516848195861}
+  - component: {fileID: 2563254691048243392}
   m_Layer: 0
   m_Name: MilkaOreo
   m_TagString: Untagged
@@ -213,7 +214,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -251,7 +252,7 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!114 &6442857620298461721
+--- !u!114 &-3271371516848195861
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -260,19 +261,32 @@ MonoBehaviour:
   m_GameObject: {fileID: 5446426672217580227}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff3eb0c7a5fded147b09305bcd4a9866, type: 3}
+  m_Script: {fileID: 11500000, guid: 6f486ee52a3f48b4b8b6c1d4bb1b7f52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemName: Milka Oreo
-  itemDescription: Ciocolata cu lapte alpin umpluta cu crema de lapte alpin cu aroma
-    de vanilie si biscuiti cu cacao
+  itemName: 
+  itemDescription: 
   itemNutritionalInfo:
-    grasimi: 35
-    valoareEnergetica: 557
-    glucide: 55
-    fibre: 1.3
-    sodiu: 0.49
-    proteine: 5.3
-    grasimiSaturate: 19
-  itemPrice: 5.29
+    grasimi: 0
+    valoareEnergetica: 0
+    glucide: 0
+    fibre: 0
+    sodiu: 0
+    proteine: 0
+    grasimiSaturate: 0
+  itemPrice: 0
   isOnSale: 0
+--- !u!114 &2563254691048243392
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5446426672217580227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed9508f92446e64fafbfde69f403ff3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gazeDuration: 0
+  requiredGazeDuration: 3
