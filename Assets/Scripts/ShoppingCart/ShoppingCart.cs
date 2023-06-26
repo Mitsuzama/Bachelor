@@ -131,7 +131,7 @@ namespace CartLogic
                     //childRigidbody.isKinematic = true;
                     childRigidbody.velocity = Vector3.zero;
                     childRigidbody.angularVelocity = Vector3.zero;
-                    PlaceObject(childObject.gameObject);
+                    //PlaceObject(childObject.gameObject);
                 }
             }   
         }

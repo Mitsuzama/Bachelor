@@ -10,6 +10,11 @@ namespace Logger
 {
     public static class DataLogger
     {
+        private static string CreateUniqueName()
+        {
+            return DateTime.Now.ToString("MM-dd-yyyy--HH-mm-ss");
+        }
+
         public static JSONData CreateJsonDocument(int tip_actiune, float durata, ItemInfo itemInfo)
         {
             JSONData jsonDocument = new JSONData();
@@ -31,7 +36,8 @@ namespace Logger
 
         public static void SaveEventsToJson(int actionType, float duration, ItemInfo itemInfo)
         {
-            string saveFilePath = "SavedEvents.json";
+            string name = "SavedEvents_" + CreateUniqueName();
+            string saveFilePath = "SavedEvents_" + CreateUniqueName() + ".json";
             List<JSONData> savedDataList;
             Debug.Log("AM INTRAT");
 
