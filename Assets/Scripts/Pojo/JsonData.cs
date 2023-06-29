@@ -9,7 +9,7 @@ namespace Logger
         public string timestamp;
         public string tip_actiune;
         public float durata;
-        public int _id;
+        public long _id;
         public string nume;
         public string descriere;
         public float pret;

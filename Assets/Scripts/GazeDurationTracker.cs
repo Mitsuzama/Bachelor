@@ -72,7 +72,7 @@ public class GazeDurationTracker : MonoBehaviour
 
         if(!isSameStatus)
         {
-            DataLogger.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
+            FileCreator.SaveEventsToJson(currentStatus, gazeDuration, itemInfo);
         }
         
         lastGazeDuration = gazeDuration;

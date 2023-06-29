@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "1687855685856",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00632763,
+    "_id": -8466,
+    "nume": "Mango",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687855713027",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.005162,
+    "_id": -5486,
+    "nume": "",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  },
+  {
+    "timestamp": "1687855714063",
+    "tip_actiune": "BUY",
+    "durata": 4.04044,
+    "_id": -5486,
+    "nume": "",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 0.0,
+      "valoareEnergetica": 0.0,
+      "glucide": 0.0,
+      "fibre": 0.0,
+      "sodiu": 0.0,
+      "proteine": 0.0,
+      "grasimiSaturate": 0.0
+    }
+  }
+]

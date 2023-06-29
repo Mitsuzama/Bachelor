@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using System.Text.RegularExpressions;
 
 namespace Item
 {
@@ -74,6 +75,37 @@ namespace Item
         {
             get { return itemInCart; }
             set { itemInCart = value; }
+        }
+
+        public void FetchObjectName()
+        {
+            string gameObjectName = gameObject.name;
+            gameObjectName = Regex.Replace(gameObjectName, @"[\(\)\d_]", "");
+
+            if (string.IsNullOrEmpty(gameObjectName))
+                gameObjectName = " ";
+
+            char[] chars = gameObjectName.ToCharArray();
+            chars[0] = char.ToUpper(chars[0]);
+            itemName = new string(chars);
+        }
+
+        public void FetchObjectData()
+        {
+            itemNutritionalInfo.grasimi = Random.Range(0f, 10f);
+            itemNutritionalInfo.valoareEnergetica = Random.Range(100f, 500f);
+            itemNutritionalInfo.glucide = Random.Range(20f, 100f);
+            itemNutritionalInfo.fibre = Random.Range(1f, 3f);
+            itemNutritionalInfo.sodiu = Random.Range(0f, 100f);
+            itemNutritionalInfo.proteine = Random.Range(5f, 30f);
+            itemNutritionalInfo.grasimiSaturate = Random.Range(0f, 5f);
+        }
+
+        ///setare automata a numelui
+        private void Awake()
+        {
+            FetchObjectName();
+            FetchObjectData();
         }
     }
 }

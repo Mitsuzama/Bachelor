@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "1688071729203",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.01000667,
+    "_id": 17460,
+    "nume": "AfricanaArahide",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 3.90856552,
+      "valoareEnergetica": 130.007355,
+      "glucide": 69.41491,
+      "fibre": 2.74266982,
+      "sodiu": 34.9504166,
+      "proteine": 14.6355009,
+      "grasimiSaturate": 2.589679
+    }
+  },
+  {
+    "timestamp": "1688071738845",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.003225,
+    "_id": 24396,
+    "nume": "AfricanaStafide ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 4.32893229,
+      "valoareEnergetica": 316.1264,
+      "glucide": 95.19394,
+      "fibre": 2.43766356,
+      "sodiu": 33.494133,
+      "proteine": 28.8045559,
+      "grasimiSaturate": 4.11322355
+    }
+  }
+]

@@ -8,36 +8,93 @@ using Logger;
 
 namespace Logger
 {
-    private bool isCreated = false;
-    
-    public class FileCreator
+    public class FileCreator : MonoBehaviour
     {
-        public string FileName;
+        private static bool isCreated = false;
+        public static string filePath;
+        public static List<JSONData> savedDataList = new List<JSONData>();
 
-        public static string CreateUniqueName()
+        public static JSONData CreateJsonDocument(int tip_actiune, float durata, ItemInfo itemInfo)
         {
-            string fileName = "SavedEvents_" + DateTime.Now.ToString("MM-dd-yyyy-HH") + ".json";
-            string filePath = Path.Combine(Application.dataPath, "SavedEvents", fileName);
-            List<ItemData> eventList = new List<ItemData>();
-            string json = JsonConvert.SerializeObject(eventList, Formatting.Indented);
-            File.WriteAllText(filePath, json);
+            JSONData jsonDocument = new JSONData();
 
-            Debug.Log("FileCreator: Am creat fisierul: " + filePath);
+            DateTimeOffset dateTime = DateTimeOffset.UtcNow;
+            long unixTimestamp = dateTime.ToUnixTimeMilliseconds();
+
+            jsonDocument.timestamp = unixTimestamp.ToString();
+            jsonDocument.tip_actiune = (tip_actiune == 1) ? "TEMPTATION" : "BUY"; ;
+            jsonDocument.durata = durata;
+            jsonDocument._id = Math.Abs(itemInfo.GetInstanceID());
+            jsonDocument.nume = itemInfo.ItemName;
+            jsonDocument.descriere = itemInfo.ItemDescription;
+            jsonDocument.pret = itemInfo.ItemPrice;
+            jsonDocument.nutritional_info = itemInfo.ItemNutritionalInfo;
+
+            return jsonDocument;
+        }
+
+        public void CreateUniqueName()
+        {
+            string fileName = "SavedEvents_" + DateTime.Now.ToString("MM-dd-yyyy-HH-mm-ss") + ".json";
+            filePath = Path.Combine(Application.dataPath, "SavedEvents", fileName);
+            if (!System.IO.File.Exists(filePath))
+            {
+                System.IO.File.Create(filePath).Dispose();
+            }
+            Debug.Log("CreateUniqueName: FileCreator: Am creat fisierul: " + filePath);
         }
 
         public void Start()
         {
-            if (File.Exists(Path.Combine("SavedEvents", FileName)))
-            {
-                Debug.Log("FileCreator: Fisierul a fost deja creat!");
-                return;
-            }
-            
             if(!isCreated)
             {
                 CreateUniqueName();
                 isCreated = true;
             }
         }
+
+        public static void SaveEventsToJson(int actionType, float duration, ItemInfo itemInfo)
+        {
+
+            if (itemInfo == null)
+            {
+                throw new ArgumentNullException("SaveEventsToJson: itemInfo");
+            }
+
+            if (!File.Exists(filePath))
+            {
+                throw new FileNotFoundException("The file was not found!", filePath);
+            }
+
+            try
+            {
+                JSONData newEntry = CreateJsonDocument(actionType, duration, itemInfo);
+                savedDataList.Add(newEntry);
+            }
+            catch (Exception ex)
+            {
+                Debug.Log(ex);
+            }
+        }
+
+        void OnApplicationQuit()
+        {
+            try 
+            {
+                string json = JsonConvert.SerializeObject(savedDataList, Formatting.Indented);
+                File.WriteAllText(filePath, string.Empty);
+                using(StreamWriter sw = System.IO.File.AppendText(filePath))
+                {
+                    sw.WriteLine(json);
+                    Debug.Log("Am scris in json!");
+                }
+            }
+
+            catch (Exception ex)
+            {
+                Debug.Log(ex);
+            }
+        }
+        
     }
 }

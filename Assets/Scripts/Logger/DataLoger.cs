@@ -10,11 +10,6 @@ namespace Logger
 {
     public static class DataLogger
     {
-        private static string CreateUniqueName()
-        {
-            return DateTime.Now.ToString("MM-dd-yyyy--HH-mm-ss");
-        }
-
         public static JSONData CreateJsonDocument(int tip_actiune, float durata, ItemInfo itemInfo)
         {
             JSONData jsonDocument = new JSONData();
@@ -36,8 +31,8 @@ namespace Logger
 
         public static void SaveEventsToJson(int actionType, float duration, ItemInfo itemInfo)
         {
-            string name = "SavedEvents_" + CreateUniqueName();
-            string saveFilePath = "SavedEvents_" + CreateUniqueName() + ".json";
+            string fileName = "SavedEvents_" + DateTime.Now.ToString("MM-dd-yyyy-HH") + ".json";
+            string filePath = Path.Combine(Application.dataPath, "SavedEvents", fileName);
             List<JSONData> savedDataList;
             Debug.Log("AM INTRAT");
 
@@ -46,19 +41,19 @@ namespace Logger
                 throw new ArgumentNullException("SaveEventsToJson: itemInfo");
             }
 
-            if (!File.Exists(saveFilePath))
+            if (!File.Exists(filePath))
             {
-                throw new FileNotFoundException("The file was not found!", saveFilePath);
+                throw new FileNotFoundException("The file was not found!", filePath);
             }
 
-            var length = new System.IO.FileInfo(saveFilePath).Length;
+            var length = new FileInfo(filePath).Length;
             if (length == 0) //daca nu am nimic scris in fisier, initializez
             {
                 savedDataList = new List<JSONData>();
             }
             else // daca am ceva in fisier, preiau datele
             {
-                string readText = File.ReadAllText(saveFilePath);
+                string readText = File.ReadAllText(filePath);
                 savedDataList = JsonConvert.DeserializeObject<List<JSONData>>(readText);
             }
 
@@ -69,7 +64,7 @@ namespace Logger
                 string json = JsonConvert.SerializeObject(savedDataList, Formatting.Indented);
 
                 Debug.Log("ACESTA E JSONUL: " + json);
-                File.WriteAllText(saveFilePath, json);
+                File.WriteAllText(filePath, json);
             }
             catch (Exception ex)
             {
