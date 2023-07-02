@@ -11,10 +11,10 @@ namespace Logger
     public class FileCreator : MonoBehaviour
     {
         private static bool isCreated = false;
-        public static string filePath;
-        public static List<JSONData> savedDataList = new List<JSONData>();
+        private static string filePath;
+        private static List<JSONData> savedDataList = new List<JSONData>();
 
-        public static JSONData CreateJsonDocument(int tip_actiune, float durata, ItemInfo itemInfo)
+        private static JSONData CreateJsonDocument(int tip_actiune, float durata, ItemInfo itemInfo)
         {
             JSONData jsonDocument = new JSONData();
 
@@ -33,7 +33,7 @@ namespace Logger
             return jsonDocument;
         }
 
-        public void CreateUniqueName()
+        private void CreateUniqueName()
         {
             string fileName = "SavedEvents_" + DateTime.Now.ToString("MM-dd-yyyy-HH-mm-ss") + ".json";
             filePath = Path.Combine(Application.dataPath, "SavedEvents", fileName);

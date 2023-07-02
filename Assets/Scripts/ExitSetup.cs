@@ -20,11 +20,6 @@ public class ExitSetup : MonoBehaviour
         m_ExitButton.onPress.RemoveListener(EnableExit);
     }
 
-    // You can quit a game in Unity by calling the Application.Quit function, 
-    // which will close a running application. However, while this works to end a built application, 
-    // Application Quit is ignored when running the game in Play Mode in the editor.
-
-
     void EnableExit()
     {
         #if UNITY_STANDALONE
@@ -33,7 +28,6 @@ public class ExitSetup : MonoBehaviour
         #if UNITY_EDITOR
             UnityEditor.EditorApplication.isPlaying = false;
         #endif
-        // Application.Quit();
         Debug.Log("Application Exit");
     }
 }

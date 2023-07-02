@@ -14,12 +14,11 @@ GameObject:
   - component: {fileID: 5628673579112410229}
   - component: {fileID: 4295715276393522290}
   - component: {fileID: -3656785763855925304}
-  - component: {fileID: 2266510543371116901}
   - component: {fileID: -6103153477584990266}
   m_Layer: 0
   m_Name: TelemeaVaca
   m_TagString: Untagged
-  m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -136,8 +135,16 @@ MonoBehaviour:
     m_Bits: 4294967295
   m_InteractionLayers:
     m_Bits: 1
+  m_DistanceCalculationMode: 1
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
+  m_AllowGazeInteraction: 0
+  m_AllowGazeSelect: 0
+  m_OverrideGazeTimeToSelect: 0
+  m_GazeTimeToSelect: 0.5
+  m_OverrideTimeToAutoDeselectGaze: 0
+  m_TimeToAutoDeselectGaze: 3
+  m_AllowGazeAssistance: 0
   m_FirstHoverEntered:
     m_PersistentCalls:
       m_Calls: []
@@ -168,6 +175,9 @@ MonoBehaviour:
   m_Deactivated:
     m_PersistentCalls:
       m_Calls: []
+  m_StartingHoverFilters: []
+  m_StartingSelectFilters: []
+  m_StartingInteractionStrengthFilters: []
   m_OnFirstHoverEntered:
     m_PersistentCalls:
       m_Calls: []
@@ -196,6 +206,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_AttachTransform: {fileID: 0}
+  m_SecondaryAttachTransform: {fileID: 0}
+  m_UseDynamicAttach: 0
+  m_MatchAttachPosition: 1
+  m_MatchAttachRotation: 1
+  m_SnapToColliderVolume: 1
+  m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
   m_MovementType: 2
   m_VelocityDamping: 1
@@ -232,20 +248,9 @@ MonoBehaviour:
   m_ForceGravityOnDetach: 0
   m_RetainTransformParent: 1
   m_AttachPointCompatibilityMode: 0
---- !u!64 &2266510543371116901
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1869984537802233968}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  m_StartingSingleGrabTransformers: []
+  m_StartingMultipleGrabTransformers: []
+  m_AddDefaultGrabTransformers: 1
 --- !u!65 &-6103153477584990266
 BoxCollider:
   m_ObjectHideFlags: 0

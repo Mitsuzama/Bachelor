@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": "1688330708886",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.016099,
+    "_id": 20264,
+    "nume": "Mango ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 1.76095843,
+      "valoareEnergetica": 131.0296,
+      "glucide": 42.87703,
+      "fibre": 1.94747853,
+      "sodiu": 65.62521,
+      "proteine": 7.072009,
+      "grasimiSaturate": 0.6276041
+    }
+  },
+  {
+    "timestamp": "1688330710945",
+    "tip_actiune": "BUY",
+    "durata": 5.077458,
+    "_id": 20264,
+    "nume": "Mango ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 1.76095843,
+      "valoareEnergetica": 131.0296,
+      "glucide": 42.87703,
+      "fibre": 1.94747853,
+      "sodiu": 65.62521,
+      "proteine": 7.072009,
+      "grasimiSaturate": 0.6276041
+    }
+  },
+  {
+    "timestamp": "1688330717561",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00451255,
+    "_id": 21858,
+    "nume": "Mango ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 6.27102137,
+      "valoareEnergetica": 286.4014,
+      "glucide": 28.26003,
+      "fibre": 1.99998641,
+      "sodiu": 78.38893,
+      "proteine": 13.0049706,
+      "grasimiSaturate": 0.8049226
+    }
+  },
+  {
+    "timestamp": "1688330718612",
+    "tip_actiune": "BUY",
+    "durata": 4.05751228,
+    "_id": 21858,
+    "nume": "Mango ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 6.27102137,
+      "valoareEnergetica": 286.4014,
+      "glucide": 28.26003,
+      "fibre": 1.99998641,
+      "sodiu": 78.38893,
+      "proteine": 13.0049706,
+      "grasimiSaturate": 0.8049226
+    }
+  },
+  {
+    "timestamp": "1688330725980",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.010592,
+    "_id": 24080,
+    "nume": "Rodie ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 5.55715275,
+      "valoareEnergetica": 261.686584,
+      "glucide": 85.4611359,
+      "fibre": 2.83989215,
+      "sodiu": 56.9189949,
+      "proteine": 26.3514862,
+      "grasimiSaturate": 1.75353909
+    }
+  },
+  {
+    "timestamp": "1688330727036",
+    "tip_actiune": "BUY",
+    "durata": 4.065598,
+    "_id": 24080,
+    "nume": "Rodie ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 5.55715275,
+      "valoareEnergetica": 261.686584,
+      "glucide": 85.4611359,
+      "fibre": 2.83989215,
+      "sodiu": 56.9189949,
+      "proteine": 26.3514862,
+      "grasimiSaturate": 1.75353909
+    }
+  }
+]

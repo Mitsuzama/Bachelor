@@ -1,0 +1,58 @@
+Date : 2023-07-02 19:48:49
+Directory : d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts
+Total : 25 files,  987 codes, 223 comments, 199 blanks, all 1409 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         23 |        974 |        223 |        199 |      1,396 |
+| JSON     |          2 |         13 |          0 |          0 |         13 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                   |         25 |        987 |        223 |        199 |      1,409 |
+| . (Files)                                                                           |         12 |        519 |         86 |        112 |        717 |
+| .vs                                                                                 |          2 |         13 |          0 |          0 |         13 |
+| Audio                                                                               |          2 |         96 |         23 |         20 |        139 |
+| Interfaces                                                                          |          1 |          8 |          0 |          1 |          9 |
+| Items                                                                               |          1 |         85 |          8 |         19 |        112 |
+| Logger                                                                              |          1 |         86 |          0 |         14 |        100 |
+| Pojo                                                                                |          3 |         44 |          0 |          6 |         50 |
+| ShoppingCart                                                                        |          3 |        136 |        106 |         27 |        269 |
++-------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                            | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\.vs\ProjectSettings.json              | JSON     |          3 |          0 |          0 |          3 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\.vs\VSWorkspaceState.json             | JSON     |         10 |          0 |          0 |         10 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\ActivateTeleportationRay.cs           | C#       |         17 |          4 |          5 |         26 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\AddObjectToCart.cs                    | C#       |         10 |         45 |          3 |         58 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\AnimateHandOnInput.cs                 | C#       |         17 |          0 |          4 |         21 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Audio\AudioHandler.cs                 | C#       |         55 |         18 |         10 |         83 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Audio\PlayBackgroundAudio.cs          | C#       |         41 |          5 |         10 |         56 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\BoundsExtensions.cs                   | C#       |         23 |          6 |          5 |         34 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\ExitSetup.cs                          | C#       |         28 |          0 |          6 |         34 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\GazeDurationTracker.cs                | C#       |         67 |          1 |         12 |         80 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\GrabObject.cs                         | C#       |         14 |          0 |          2 |         16 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\GraphicEffects.cs                     | C#       |         42 |          1 |          8 |         51 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\InfoProvider.cs                       | C#       |         52 |          0 |          5 |         57 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Interfaces\IInfoProvider.cs           | C#       |          8 |          0 |          1 |          9 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Items\ItemInfo.cs                     | C#       |         85 |          8 |         19 |        112 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Logger\FileCreator.cs                 | C#       |         86 |          0 |         14 |        100 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\PickUp.cs                             | C#       |         25 |          0 |          3 |         28 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Pojo\JsonData.cs                      | C#       |         17 |          0 |          3 |         20 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Pojo\NutritionalInfo.cs               | C#       |         15 |          0 |          2 |         17 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\Pojo\Status.cs                        | C#       |         12 |          0 |          1 |         13 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\ShoppingCart\IShoppingCart.cs         | C#       |         12 |          0 |          1 |         13 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\ShoppingCart\ShoppingCart.cs          | C#       |         96 |         99 |         22 |        217 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\ShoppingCart\ShoppingCartInterface.cs | C#       |         28 |          7 |          4 |         39 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\UpperText.cs                          | C#       |         12 |          2 |          5 |         19 |
+| d:\MateriiAn4\Licenta\Bachelor\Assets\Scripts\XRPushButton.cs                       | C#       |        212 |         27 |         54 |        293 |
+| Total                                                                               |          |        987 |        223 |        199 |      1,409 |
++-------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+

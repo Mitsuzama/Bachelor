@@ -77,7 +77,7 @@ namespace Item
             set { itemInCart = value; }
         }
 
-        public void FetchObjectName()
+        private void FetchObjectName()
         {
             string gameObjectName = gameObject.name;
             gameObjectName = Regex.Replace(gameObjectName, @"[\(\)\d_]", "");
@@ -90,7 +90,7 @@ namespace Item
             itemName = new string(chars);
         }
 
-        public void FetchObjectData()
+        private void FetchObjectData()
         {
             itemNutritionalInfo.grasimi = Random.Range(0f, 10f);
             itemNutritionalInfo.valoareEnergetica = Random.Range(100f, 500f);
