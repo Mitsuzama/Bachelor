@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "1688331082627",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.02721238,
+    "_id": 20264,
+    "nume": "Mango ",
+    "descriere": "",
+    "pret": 0.0,
+    "nutritional_info": {
+      "grasimi": 5.813928,
+      "valoareEnergetica": 310.724426,
+      "glucide": 53.61335,
+      "fibre": 2.911899,
+      "sodiu": 89.14121,
+      "proteine": 7.447313,
+      "grasimiSaturate": 4.6516037
+    }
+  }
+]

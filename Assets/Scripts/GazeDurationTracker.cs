@@ -17,7 +17,7 @@ public class GazeDurationTracker : MonoBehaviour
     public float gazeDuration = 0f;
 
     [Tooltip("timpul necesar pentru relevanta")]
-    public float requiredGazeDuration = 3f;
+    public float requiredGazeDuration = 2f;
 
     void Start()
     {

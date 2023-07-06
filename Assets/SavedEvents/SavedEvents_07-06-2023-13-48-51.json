@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "1688640550860",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.025852,
+    "_id": 125598,
+    "nume": "Cannoli ",
+    "descriere": "",
+    "pret": 4.544457,
+    "nutritional_info": {
+      "grasimi": 3.3119936,
+      "valoareEnergetica": 276.081543,
+      "glucide": 83.26845,
+      "fibre": 2.28702784,
+      "sodiu": 8.841574,
+      "proteine": 28.7635479,
+      "grasimiSaturate": 4.18899632
+    }
+  }
+]

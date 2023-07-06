@@ -88,6 +88,8 @@ namespace Item
             char[] chars = gameObjectName.ToCharArray();
             chars[0] = char.ToUpper(chars[0]);
             itemName = new string(chars);
+
+            itemPrice = Random.Range(0f, 15f);
         }
 
         private void FetchObjectData()
@@ -99,6 +101,17 @@ namespace Item
             itemNutritionalInfo.sodiu = Random.Range(0f, 100f);
             itemNutritionalInfo.proteine = Random.Range(5f, 30f);
             itemNutritionalInfo.grasimiSaturate = Random.Range(0f, 5f);
+            
+            if(itemDescription.Contains("Apa"))
+            {
+                itemNutritionalInfo.grasimi = 0;
+                itemNutritionalInfo.valoareEnergetica = 0;
+                itemNutritionalInfo.glucide = 0;
+                itemNutritionalInfo.fibre = 0;
+                itemNutritionalInfo.sodiu = 0;
+                itemNutritionalInfo.proteine = 0;
+                itemNutritionalInfo.grasimiSaturate = 0;
+            }
         }
 
         ///setare automata a numelui

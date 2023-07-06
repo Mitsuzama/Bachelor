@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "1688659639687",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00196266,
+    "_id": 1374,
+    "nume": "Rodie ",
+    "descriere": "",
+    "pret": 10.0697908,
+    "nutritional_info": {
+      "grasimi": 5.02135324,
+      "valoareEnergetica": 420.5485,
+      "glucide": 99.7506256,
+      "fibre": 1.01652265,
+      "sodiu": 87.1017456,
+      "proteine": 11.5883713,
+      "grasimiSaturate": 1.43750334
+    }
+  },
+  {
+    "timestamp": "1688659682448",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.014792,
+    "_id": 1794,
+    "nume": "FereroDuplo ",
+    "descriere": "",
+    "pret": 1.07100606,
+    "nutritional_info": {
+      "grasimi": 4.907501,
+      "valoareEnergetica": 351.404968,
+      "glucide": 48.231636,
+      "fibre": 2.33792,
+      "sodiu": 6.95973635,
+      "proteine": 12.805048,
+      "grasimiSaturate": 1.16276145
+    }
+  }
+]

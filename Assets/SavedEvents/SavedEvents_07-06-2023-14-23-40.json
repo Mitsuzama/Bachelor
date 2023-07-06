@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "1688642651819",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00756025,
+    "_id": 1358,
+    "nume": "FereroDuplo ",
+    "descriere": "",
+    "pret": 8.126712,
+    "nutritional_info": {
+      "grasimi": 7.76707172,
+      "valoareEnergetica": 423.367645,
+      "glucide": 38.9959526,
+      "fibre": 1.57350957,
+      "sodiu": 5.02874851,
+      "proteine": 16.7318916,
+      "grasimiSaturate": 0.8078021
+    }
+  },
+  {
+    "timestamp": "1688642658526",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.03411865,
+    "_id": 4214,
+    "nume": "Oreo ",
+    "descriere": "",
+    "pret": 5.48175144,
+    "nutritional_info": {
+      "grasimi": 7.16709375,
+      "valoareEnergetica": 488.752838,
+      "glucide": 65.19285,
+      "fibre": 2.0083,
+      "sodiu": 93.02949,
+      "proteine": 5.04200935,
+      "grasimiSaturate": 2.46989036
+    }
+  },
+  {
+    "timestamp": "1688642660639",
+    "tip_actiune": "BUY",
+    "durata": 5.14943838,
+    "_id": 4214,
+    "nume": "Oreo ",
+    "descriere": "",
+    "pret": 5.48175144,
+    "nutritional_info": {
+      "grasimi": 7.16709375,
+      "valoareEnergetica": 488.752838,
+      "glucide": 65.19285,
+      "fibre": 2.0083,
+      "sodiu": 93.02949,
+      "proteine": 5.04200935,
+      "grasimiSaturate": 2.46989036
+    }
+  }
+]

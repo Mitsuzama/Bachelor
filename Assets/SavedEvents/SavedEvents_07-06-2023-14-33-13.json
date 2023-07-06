@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "1688643291464",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.04933763,
+    "_id": 20212,
+    "nume": "TwixPachet ",
+    "descriere": "",
+    "pret": 12.3671331,
+    "nutritional_info": {
+      "grasimi": 8.747235,
+      "valoareEnergetica": 122.925377,
+      "glucide": 44.21326,
+      "fibre": 1.746661,
+      "sodiu": 16.7405853,
+      "proteine": 24.0389214,
+      "grasimiSaturate": 1.76050639
+    }
+  },
+  {
+    "timestamp": "1688643291516",
+    "tip_actiune": "BUY",
+    "durata": 3.10695243,
+    "_id": 20212,
+    "nume": "TwixPachet ",
+    "descriere": "",
+    "pret": 12.3671331,
+    "nutritional_info": {
+      "grasimi": 8.747235,
+      "valoareEnergetica": 122.925377,
+      "glucide": 44.21326,
+      "fibre": 1.746661,
+      "sodiu": 16.7405853,
+      "proteine": 24.0389214,
+      "grasimiSaturate": 1.76050639
+    }
+  },
+  {
+    "timestamp": "1688643312252",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.051489,
+    "_id": 2760,
+    "nume": "ArdeiGras ",
+    "descriere": "",
+    "pret": 1.42516673,
+    "nutritional_info": {
+      "grasimi": 6.8400135,
+      "valoareEnergetica": 327.557953,
+      "glucide": 45.5117264,
+      "fibre": 1.08803034,
+      "sodiu": 38.1196327,
+      "proteine": 19.1040516,
+      "grasimiSaturate": 2.93154931
+    }
+  },
+  {
+    "timestamp": "1688643312302",
+    "tip_actiune": "BUY",
+    "durata": 3.10214758,
+    "_id": 2760,
+    "nume": "ArdeiGras ",
+    "descriere": "",
+    "pret": 1.42516673,
+    "nutritional_info": {
+      "grasimi": 6.8400135,
+      "valoareEnergetica": 327.557953,
+      "glucide": 45.5117264,
+      "fibre": 1.08803034,
+      "sodiu": 38.1196327,
+      "proteine": 19.1040516,
+      "grasimiSaturate": 2.93154931
+    }
+  }
+]

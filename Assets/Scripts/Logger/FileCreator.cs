@@ -69,7 +69,10 @@ namespace Logger
             try
             {
                 JSONData newEntry = CreateJsonDocument(actionType, duration, itemInfo);
-                savedDataList.Add(newEntry);
+                if(itemInfo.ItemNutritionalInfo.glucide > 30.0f || itemInfo.ItemNutritionalInfo.grasimi > 5.0f || itemInfo.ItemNutritionalInfo.grasimiSaturate > 2.5f)
+                {
+                    savedDataList.Add(newEntry);
+                }
             }
             catch (Exception ex)
             {

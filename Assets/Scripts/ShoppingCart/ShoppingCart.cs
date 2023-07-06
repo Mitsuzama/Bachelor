@@ -9,23 +9,14 @@ namespace CartLogic
 {
     public class ShoppingCart : MonoBehaviour, IShoppingCart
     {
-        Rigidbody m_Rigidbody;
-        public float m_Thrust = 20f;
-
         public static ShoppingCart Instance { get; private set; }
 
         private HashSet<ItemInfo> cartItems = new HashSet<ItemInfo>();
         private HashSet<ItemInfo> removedItems = new HashSet<ItemInfo>();
         public event Action<ISet<ItemInfo>> OnContentChanged = set => { };
 
-        public Rigidbody child;
-        public GameObject parent;
-
-        void Start()
-        {
-            m_Rigidbody = GetComponent<Rigidbody>();
-        }
-
+        private Rigidbody child;
+        private GameObject parent;
 
         // sa am o functie in care sa am un array cu 2 elemente. daca pot lua alea doa obiecte sa le pun pe raft, continuam
         /**
