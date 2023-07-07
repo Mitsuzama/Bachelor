@@ -14,6 +14,8 @@ GameObject:
   - component: {fileID: 8912752874393765281}
   - component: {fileID: 8090356670510953022}
   - component: {fileID: 6821345440515417328}
+  - component: {fileID: -5704292814293986659}
+  - component: {fileID: 1507166420567396217}
   m_Layer: 0
   m_Name: TelemeaOaie
   m_TagString: Untagged
@@ -250,3 +252,41 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
+--- !u!114 &-5704292814293986659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3197239418098741668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f486ee52a3f48b4b8b6c1d4bb1b7f52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemDescription: Branzeturi
+  itemNutritionalInfo:
+    grasimi: 0
+    valoareEnergetica: 0
+    glucide: 0
+    fibre: 0
+    sodiu: 0
+    proteine: 0
+    grasimiSaturate: 0
+  itemPrice: 0
+  isOnSale: 0
+--- !u!114 &1507166420567396217
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3197239418098741668}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed9508f92446e64fafbfde69f403ff3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gazeDuration: 0
+  requiredGazeDuration: 2

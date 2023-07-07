@@ -188,7 +188,7 @@ PrefabInstance:
     - target: {fileID: 6961092490437671296, guid: 97ad24a3156fac74fbfb1be6e38db6fa,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.54
+      value: 7.28
       objectReference: {fileID: 0}
     - target: {fileID: 6961092490437671296, guid: 97ad24a3156fac74fbfb1be6e38db6fa,
         type: 3}
@@ -373,18 +373,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 822915468856527907, guid: ae25d254e4eb89842ab3050aba67a276,
         type: 3}
+      propertyPath: fadeCurve.m_Curve.Array.data[0].value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 822915468856527907, guid: ae25d254e4eb89842ab3050aba67a276,
+        type: 3}
       propertyPath: fadeCurve.m_Curve.Array.data[1].value
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 822915468856527907, guid: ae25d254e4eb89842ab3050aba67a276,
         type: 3}
       propertyPath: fadeCurve.m_Curve.Array.data[0].inSlope
-      value: 2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 822915468856527907, guid: ae25d254e4eb89842ab3050aba67a276,
         type: 3}
       propertyPath: fadeCurve.m_Curve.Array.data[0].outSlope
-      value: 2
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822915468856527907, guid: ae25d254e4eb89842ab3050aba67a276,
+        type: 3}
+      propertyPath: fadeCurve.m_Curve.Array.data[0].tangentMode
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 822915468856527907, guid: ae25d254e4eb89842ab3050aba67a276,
+        type: 3}
+      propertyPath: fadeCurve.m_Curve.Array.data[1].tangentMode
+      value: 34
       objectReference: {fileID: 0}
     - target: {fileID: 3127377416852887305, guid: ae25d254e4eb89842ab3050aba67a276,
         type: 3}
@@ -917,7 +932,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 4029470475031396657, guid: 5c19e9e846a65554ba214447b54f10ca, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 5c19e9e846a65554ba214447b54f10ca, type: 3}
 --- !u!4 &1689322751 stripped
 Transform:

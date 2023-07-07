@@ -14,7 +14,8 @@ GameObject:
   - component: {fileID: 5628673579112410229}
   - component: {fileID: 4295715276393522290}
   - component: {fileID: -3656785763855925304}
-  - component: {fileID: -6103153477584990266}
+  - component: {fileID: -8068441356248801390}
+  - component: {fileID: 6273460406250096213}
   m_Layer: 0
   m_Name: TelemeaVaca
   m_TagString: Untagged
@@ -251,16 +252,41 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!65 &-6103153477584990266
-BoxCollider:
+--- !u!114 &-8068441356248801390
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1869984537802233968}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 0.99999994}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f486ee52a3f48b4b8b6c1d4bb1b7f52, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemDescription: Branzeturi
+  itemNutritionalInfo:
+    grasimi: 0
+    valoareEnergetica: 0
+    glucide: 0
+    fibre: 0
+    sodiu: 0
+    proteine: 0
+    grasimiSaturate: 0
+  itemPrice: 0
+  isOnSale: 0
+--- !u!114 &6273460406250096213
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1869984537802233968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ed9508f92446e64fafbfde69f403ff3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gazeDuration: 0
+  requiredGazeDuration: 2

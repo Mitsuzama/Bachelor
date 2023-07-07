@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "1688682296421",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.006642,
+    "_id": 733020,
+    "nume": "Rodie ",
+    "descriere": "",
+    "pret": 3.94709325,
+    "nutritional_info": {
+      "grasimi": 5.76932,
+      "valoareEnergetica": 193.5092,
+      "glucide": 78.10415,
+      "fibre": 1.01385331,
+      "sodiu": 48.814373,
+      "proteine": 19.1121044,
+      "grasimiSaturate": 4.93681955
+    }
+  },
+  {
+    "timestamp": "1688682297444",
+    "tip_actiune": "BUY",
+    "durata": 4.02798557,
+    "_id": 733020,
+    "nume": "Rodie ",
+    "descriere": "",
+    "pret": 3.94709325,
+    "nutritional_info": {
+      "grasimi": 5.76932,
+      "valoareEnergetica": 193.5092,
+      "glucide": 78.10415,
+      "fibre": 1.01385331,
+      "sodiu": 48.814373,
+      "proteine": 19.1121044,
+      "grasimiSaturate": 4.93681955
+    }
+  }
+]
