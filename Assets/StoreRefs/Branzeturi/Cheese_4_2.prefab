@@ -11,11 +11,11 @@ GameObject:
   - component: {fileID: 4789978314874290}
   - component: {fileID: 33636533224826360}
   - component: {fileID: 23731395587992766}
-  - component: {fileID: -4721860820206008580}
   - component: {fileID: 2076701635371524055}
   - component: {fileID: 2156068352795590735}
   - component: {fileID: -2152527760070403173}
   - component: {fileID: 9037675571726662983}
+  - component: {fileID: 5528077483889634028}
   m_Layer: 0
   m_Name: Cheese_4_2
   m_TagString: Untagged
@@ -88,20 +88,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &-4721860820206008580
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1550774452211332}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 1
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 4300020, guid: c93df88adfd6e274bbf85ff57fe2af0c, type: 3}
 --- !u!54 &2076701635371524055
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -291,3 +277,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
+--- !u!136 &5528077483889634028
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1550774452211332}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.08417
+  m_Height: 0.26679316
+  m_Direction: 0
+  m_Center: {x: 0, y: 0.05, z: 0}

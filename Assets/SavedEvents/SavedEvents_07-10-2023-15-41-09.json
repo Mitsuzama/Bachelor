@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": "1688992898270",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.004922,
+    "_id": 31582,
+    "nume": "Chio Cascaval",
+    "descriere": "",
+    "pret": 10.5126877,
+    "nutritional_info": {
+      "grasimi": 5.43873262,
+      "valoareEnergetica": 326.700256,
+      "glucide": 73.34907,
+      "fibre": 2.89109015,
+      "sodiu": 36.85132,
+      "proteine": 5.962022,
+      "grasimiSaturate": 2.05405927
+    }
+  },
+  {
+    "timestamp": "1688992898297",
+    "tip_actiune": "BUY",
+    "durata": 3.03392172,
+    "_id": 31582,
+    "nume": "Chio Cascaval",
+    "descriere": "",
+    "pret": 10.5126877,
+    "nutritional_info": {
+      "grasimi": 5.43873262,
+      "valoareEnergetica": 326.700256,
+      "glucide": 73.34907,
+      "fibre": 2.89109015,
+      "sodiu": 36.85132,
+      "proteine": 5.962022,
+      "grasimiSaturate": 2.05405927
+    }
+  },
+  {
+    "timestamp": "1688992899326",
+    "tip_actiune": "TEMPTATION",
+    "durata": 4.06255436,
+    "_id": 31582,
+    "nume": "Chio Cascaval",
+    "descriere": "",
+    "pret": 10.5126877,
+    "nutritional_info": {
+      "grasimi": 5.43873262,
+      "valoareEnergetica": 326.700256,
+      "glucide": 73.34907,
+      "fibre": 2.89109015,
+      "sodiu": 36.85132,
+      "proteine": 5.962022,
+      "grasimiSaturate": 2.05405927
+    }
+  },
+  {
+    "timestamp": "1688992919072",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00523448,
+    "_id": 31858,
+    "nume": "Cheetos - Flaming Hot",
+    "descriere": "",
+    "pret": 1.58133745,
+    "nutritional_info": {
+      "grasimi": 2.21412063,
+      "valoareEnergetica": 330.58783,
+      "glucide": 55.0506439,
+      "fibre": 1.47555447,
+      "sodiu": 32.6842842,
+      "proteine": 10.3845348,
+      "grasimiSaturate": 3.74695826
+    }
+  },
+  {
+    "timestamp": "1688992919097",
+    "tip_actiune": "BUY",
+    "durata": 3.03172088,
+    "_id": 31858,
+    "nume": "Cheetos - Flaming Hot",
+    "descriere": "",
+    "pret": 1.58133745,
+    "nutritional_info": {
+      "grasimi": 2.21412063,
+      "valoareEnergetica": 330.58783,
+      "glucide": 55.0506439,
+      "fibre": 1.47555447,
+      "sodiu": 32.6842842,
+      "proteine": 10.3845348,
+      "grasimiSaturate": 3.74695826
+    }
+  },
+  {
+    "timestamp": "1688992930847",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.002114,
+    "_id": 6728,
+    "nume": "Cheetos - Flaming Hot ",
+    "descriere": "",
+    "pret": 10.0569372,
+    "nutritional_info": {
+      "grasimi": 8.803791,
+      "valoareEnergetica": 313.143341,
+      "glucide": 28.6939621,
+      "fibre": 2.03525472,
+      "sodiu": 93.36168,
+      "proteine": 15.0269508,
+      "grasimiSaturate": 3.26262665
+    }
+  },
+  {
+    "timestamp": "1688992930873",
+    "tip_actiune": "BUY",
+    "durata": 3.02987838,
+    "_id": 6728,
+    "nume": "Cheetos - Flaming Hot ",
+    "descriere": "",
+    "pret": 10.0569372,
+    "nutritional_info": {
+      "grasimi": 8.803791,
+      "valoareEnergetica": 313.143341,
+      "glucide": 28.6939621,
+      "fibre": 2.03525472,
+      "sodiu": 93.36168,
+      "proteine": 15.0269508,
+      "grasimiSaturate": 3.26262665
+    }
+  }
+]

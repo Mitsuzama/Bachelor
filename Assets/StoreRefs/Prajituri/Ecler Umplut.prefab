@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 2339000610269023395}
   - component: {fileID: -7998937660964186414}
   - component: {fileID: 3318004207319672921}
+  - component: {fileID: 5928620654666611601}
   m_Layer: 0
   m_Name: Ecler Umplut
   m_TagString: Untagged
@@ -30,14 +31,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4288875658046209179}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 17.932, y: 0.94393, z: -0.83114}
+  m_LocalRotation: {x: 0, y: 0.38268343, z: 0, w: 0.92387956}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.0026881057, y: 0.0026881057, z: 0.0026881057}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 45, z: 0}
 --- !u!33 &7918495354848663274
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -97,7 +98,7 @@ MeshCollider:
   m_GameObject: {fileID: 4288875658046209179}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   m_Convex: 1
   m_CookingOptions: 30
@@ -291,3 +292,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 3
+--- !u!136 &5928620654666611601
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4288875658046209179}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 19.699223
+  m_Height: 93.88039
+  m_Direction: 2
+  m_Center: {x: 0, y: 0, z: 0}

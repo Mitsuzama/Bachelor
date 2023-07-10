@@ -11,11 +11,11 @@ GameObject:
   - component: {fileID: 4028056509014440}
   - component: {fileID: 33371088067811182}
   - component: {fileID: 23514453417958018}
-  - component: {fileID: -6437568268245957078}
   - component: {fileID: 867189704432236909}
   - component: {fileID: 8023829129944348741}
   - component: {fileID: 8622954524979445495}
   - component: {fileID: -3482705588991739818}
+  - component: {fileID: 2206923694375581383}
   m_Layer: 0
   m_Name: Salam de vara
   m_TagString: Untagged
@@ -88,19 +88,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &-6437568268245957078
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1339473262700502}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.094919994, y: 0.28646824, z: 0.094919994}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &867189704432236909
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -290,3 +277,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gazeDuration: 0
   requiredGazeDuration: 2
+--- !u!136 &2206923694375581383
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1339473262700502}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.047459997
+  m_Height: 0.28646824
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}

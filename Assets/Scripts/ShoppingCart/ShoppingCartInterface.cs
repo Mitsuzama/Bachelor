@@ -31,7 +31,7 @@ namespace CartLogic
                     .Select(grouping => $"{grouping.Count()}x {grouping.Key}"));
 
                 //addedItems.text = items.GroupBy(i => i.itemName).JoinString("\n", grouping => $"{grouping.Count()}x {grouping.Key}");
-                prices.text = $"${items.Sum(component => component.ItemPrice):F2}";
+                prices.text = $"{items.Sum(component => component.ItemPrice):F2} Lei";
             };
         }
     }
