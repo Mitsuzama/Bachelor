@@ -1,0 +1,110 @@
+[
+  {
+    "timestamp": "1689159991479",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.00334525,
+    "_id": 497728,
+    "nume": "Mar ",
+    "descriere": "",
+    "pret": 9.214414,
+    "nutritional_info": {
+      "grasimi": 5.32713366,
+      "valoareEnergetica": 218.394165,
+      "glucide": 33.5794373,
+      "fibre": 1.324512,
+      "sodiu": 25.58803,
+      "proteine": 13.3500843,
+      "grasimiSaturate": 0.162494183
+    }
+  },
+  {
+    "timestamp": "1689160001643",
+    "tip_actiune": "BUY",
+    "durata": 13.1684256,
+    "_id": 497728,
+    "nume": "Mar ",
+    "descriere": "",
+    "pret": 9.214414,
+    "nutritional_info": {
+      "grasimi": 5.32713366,
+      "valoareEnergetica": 218.394165,
+      "glucide": 33.5794373,
+      "fibre": 1.324512,
+      "sodiu": 25.58803,
+      "proteine": 13.3500843,
+      "grasimiSaturate": 0.162494183
+    }
+  },
+  {
+    "timestamp": "1689160045873",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.04069352,
+    "_id": 518074,
+    "nume": "Star Popcorn Sare",
+    "descriere": "",
+    "pret": 14.7403154,
+    "nutritional_info": {
+      "grasimi": 1.647439,
+      "valoareEnergetica": 123.562759,
+      "glucide": 46.9940529,
+      "fibre": 1.201951,
+      "sodiu": 4.620552,
+      "proteine": 7.782553,
+      "grasimiSaturate": 1.10168159
+    }
+  },
+  {
+    "timestamp": "1689160073064",
+    "tip_actiune": "BUY",
+    "durata": 30.241478,
+    "_id": 518074,
+    "nume": "Star Popcorn Sare",
+    "descriere": "",
+    "pret": 14.7403154,
+    "nutritional_info": {
+      "grasimi": 1.647439,
+      "valoareEnergetica": 123.562759,
+      "glucide": 46.9940529,
+      "fibre": 1.201951,
+      "sodiu": 4.620552,
+      "proteine": 7.782553,
+      "grasimiSaturate": 1.10168159
+    }
+  },
+  {
+    "timestamp": "1689160094724",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.010906,
+    "_id": 506176,
+    "nume": "Avocado ",
+    "descriere": "",
+    "pret": 2.41468,
+    "nutritional_info": {
+      "grasimi": 7.55455971,
+      "valoareEnergetica": 415.176147,
+      "glucide": 44.41263,
+      "fibre": 1.69151187,
+      "sodiu": 26.3054428,
+      "proteine": 22.9845543,
+      "grasimiSaturate": 0.0437665
+    }
+  },
+  {
+    "timestamp": "1689160112731",
+    "tip_actiune": "BUY",
+    "durata": 10.0964851,
+    "_id": 506176,
+    "nume": "Avocado ",
+    "descriere": "",
+    "pret": 2.41468,
+    "nutritional_info": {
+      "grasimi": 7.55455971,
+      "valoareEnergetica": 415.176147,
+      "glucide": 44.41263,
+      "fibre": 1.69151187,
+      "sodiu": 26.3054428,
+      "proteine": 22.9845543,
+      "grasimiSaturate": 0.0437665
+    }
+  }
+]

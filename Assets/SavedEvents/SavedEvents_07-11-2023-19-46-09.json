@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "1689093980036",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.01852036,
+    "_id": 30062,
+    "nume": "Rodie ",
+    "descriere": "",
+    "pret": 4.15745544,
+    "nutritional_info": {
+      "grasimi": 2.65052748,
+      "valoareEnergetica": 188.891785,
+      "glucide": 85.82482,
+      "fibre": 2.44710326,
+      "sodiu": 12.7122879,
+      "proteine": 7.07420254,
+      "grasimiSaturate": 0.567509532
+    }
+  },
+  {
+    "timestamp": "1689093981078",
+    "tip_actiune": "BUY",
+    "durata": 4.061316,
+    "_id": 30062,
+    "nume": "Rodie ",
+    "descriere": "",
+    "pret": 4.15745544,
+    "nutritional_info": {
+      "grasimi": 2.65052748,
+      "valoareEnergetica": 188.891785,
+      "glucide": 85.82482,
+      "fibre": 2.44710326,
+      "sodiu": 12.7122879,
+      "proteine": 7.07420254,
+      "grasimiSaturate": 0.567509532
+    }
+  },
+  {
+    "timestamp": "1689094000880",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.0361526,
+    "_id": 22234,
+    "nume": "Raffaello ",
+    "descriere": "",
+    "pret": 13.0912809,
+    "nutritional_info": {
+      "grasimi": 3.52124882,
+      "valoareEnergetica": 174.3134,
+      "glucide": 24.8984241,
+      "fibre": 1.72708964,
+      "sodiu": 1.83018446,
+      "proteine": 12.4653578,
+      "grasimiSaturate": 2.53578568
+    }
+  },
+  {
+    "timestamp": "1689094014055",
+    "tip_actiune": "TEMPTATION",
+    "durata": 3.01081324,
+    "_id": 2786,
+    "nume": "Piersica ",
+    "descriere": "",
+    "pret": 6.81742144,
+    "nutritional_info": {
+      "grasimi": 6.367058,
+      "valoareEnergetica": 220.243912,
+      "glucide": 85.41775,
+      "fibre": 2.285305,
+      "sodiu": 26.575655,
+      "proteine": 14.00626,
+      "grasimiSaturate": 3.68637443
+    }
+  }
+]

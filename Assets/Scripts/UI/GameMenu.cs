@@ -35,6 +35,7 @@ public class GameMenu : MonoBehaviour
         }
     }
 
+    // Functie atasata la butonul de inchidere a aplicatiei din UI
     public void QuitGame()
     {
         #if UNITY_STANDALONE
@@ -46,12 +47,14 @@ public class GameMenu : MonoBehaviour
         Debug.Log("Application Exit");
     }
 
+    // Functie chemata la apasarea butonului start: ascune toate butoanele si cheama functia ce merge la scena
     public void StartGame()
     {
         HideAll();
         SceneTransitionManager.singleton.GoToSceneAsync(1);
     }
 
+    // Functie chemata atunci cand apas butonul de start: ascunde toate butoanele
     public void HideAll()
     {
         mainMenu.SetActive(false);
